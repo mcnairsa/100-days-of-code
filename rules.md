@@ -6,7 +6,7 @@
 ### *I will encourage others in the spirit of* pay it forward.
 
 #### Start Date
-First Day, June 22rd of Sixth Month, 2024.
+First Day, June 23rd of Sixth Month, 2024.
 
 ## Additional Rules
 1. I will post about my progress every day. I will announce my commitment on: LinkedIn, fCC's Discord Channel and to the Codecademy Full-Stack Engineer Club. On each of these I will post a link daily to the log which will initially be a file in this GitHub [GH] repo.
