@@ -3,15 +3,21 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
+### *I will encourage others in the spirit of* pay it forward.
+
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+First Day, June 22rd of Sixth Month, 2024.
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
+1. I will post about my progress every day. I will announce my commitment on: LinkedIn, fCC's Discord Channel and to the Codecademy Full-Stack Engineer Club. On each of these I will post a link daily to the log which will initially be a file in this GitHub [GH] repo.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. The log will initially be a file [this, log.md] in this 100 Days repo. I intend that by the end of this 100 days I will migrate the log to a blog that will be part of my profile site.
+6. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
+7. As I progress through the 100 days I will refine my intentions, my goals and my presentation,
+8. The hosting location will initially be GitHub Pages [GHP]. I anticipate this will change to a hosting solution such as Netlify or Render by the end of the 100 days.
+9. I commit to connecting with others in line with point four of README.MD by the end of Week One.
 
 
 ## Ideas to make this challenge more effective
