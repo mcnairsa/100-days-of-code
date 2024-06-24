@@ -7,3 +7,11 @@
 **Thoughts:** It feels good to be starting this for real at last.
 
 **Link to work:** [(https://github.com/mcnairsa/100-days-of-code/edit/main/log.md))
+
+### Day 2/100: 24.06.2024
+
+**Today's Progress**: more work on local environment and set up
+
+**Thoughts:** this is a slow start but that's better than no start at all
+
+**Link to work:** nothing online yet
