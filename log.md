@@ -1,17 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 1: First Day, 23rd of Sixth Month, 2024
+### Day 001/100: Seventh Day, 28th of Nineth Month, 2024
 
-**Today's Progress**: Personalised the file rules.md and began the log [this file for now]
+**Today's Progress**: Work on Codecademy Challenge Project Website Design System
 
-**Thoughts:** It feels good to be starting this for real at last.
+**Thoughts:** From Day One of Round One: 'It feels good to be starting this for real at last.'
 
-**Link to work:** [(https://github.com/mcnairsa/100-days-of-code/edit/main/log.md))
+It feels even better to be starting Round One.
 
-### Day 2/100: 24.06.2024
+**Link to work:** [(https://github.com/mcnairsa/CD-Design-System/
 
-**Today's Progress**: more work on local environment and set up
+Notes:
+After spending some time on putting together an index.html from scratch I found that I had already made a previous start on this. Today's effort is saved as ideas.html. It has some useful thoughts on how I hope to approach this project but is over-ambitions.
 
-**Thoughts:** this is a slow start but that's better than no start at all
+Plan for tomorrow:
+1. Expand index.html (the original one)
+2. Create the CSS
+3. Make a plan for the next few projects
 
-**Link to work:** nothing online yet
+I aim to complete the Website Design System project by the end of tomorrow's project work time. It will be quite basic but will meet the requirements set out by Codecademy for the project so I can sign it off and move on.
+
+### Day 002/100: 29-09-2024
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
