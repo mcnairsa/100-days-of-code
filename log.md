@@ -23,7 +23,16 @@ I aim to complete the Website Design System project by the end of tomorrow's pro
 ### Day 002/100: 29-09-2024
 
 **Today's Progress**: 
-
+Completed Animal Fun Facts. With the help of the AI.
+It's been a while since I worked on it and I've forgottem most of what it was about
 **Thoughts:** 
 
-**Link to work:** 
+**Link to Work:**
+No link as it was on the Cc 
+**Pay Forward:**
+Cc Circle: Sea 
+LinkedIn: Someone who made a 'Frogger' type game - in Python, I think. I looked for it again to record it here and can't find it.
+
+Notes:
+1. Again spent a lot of time trying to work out where stuff is on different machines. Looking on the MacBk for something, don't even remember what now. HA! It was the .. bloody HELL! It's gone again. Gottit! It was the template stuff for the <head> ... </head> and meta data.
+2. Lost this document too and took quite a while to find it again.
