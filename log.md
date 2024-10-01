@@ -38,7 +38,7 @@ Cc Circle: Sea
 LinkedIn: Someone who made a 'Frogger' type game - in Python, I think. I looked for it again to record it here and can't find it.
 
 
-### Day 002/100: 29-09-2024
+### Day 003/100: 30-09-2024
 
 **Today's Progress**: 
 Downloaded the 'starting' files for Codecademy's Challenge Project Find Your Hat. Set up local and remote repo for the same.
@@ -56,8 +56,56 @@ Not much to see yet except for the Codecademy starting code, more to come.
 2. Aditi Byhut on Linked in - 86/100 'Sum of Prefix Scores of Strings'.
 
 **Notes:**
-1. In my mind the 100 days falls into two halves of seven weeks each of seven weeks plus two days. My week starts on a 1st Day/Sunday so I see a 7th Day/Saturday start (I started on 28th of the 9th Month/September). This gives me a day of easing myself into the 100 days at the beginning and a day of easing myself out at the end. To help me along I plan to give the weeks a focus. (See below, points (2) & (3).
+1. In my mind the 100 days falls into two halves of seven weeks each of seven weeks plus two days. My week starts on a 1st Day/Sunday so the 100-day round starts on a 7th Day/Saturday (I started on 28th of the 9th Month/September). This gives me a day of easing myself into the 100 days at the beginning and a day of easing myself out at the end. To help me along I plan to give the weeks a focus. (See below, points (2) & (3).
 
-2. In parallel with the 100 days of coding I am also re-treading the path through Stephen R. Covey's <<Seven Habits of Highly Effective People>>. Each week of the first seven I will focus on one of the 'Habits' This week it is Habit One: Be Proactive. (I may also cycle through the 7 habits or at least the first 6) on each day of the week. 
+2. In parallel with the 100 days of coding I am also re-treading the path through Stephen R. Covey's <<Seven Habits of Highly Effective People>>. Each week of the first seven I will focus on one of the 'Habits' This week it is Habit One: Be Proactive. (I may also cycle through the 7 habits, or at least the first 6, on each day of the week. 
 
 3. Possibly in weeks 8 to 14 I will use the book <<7 Languages in 7 Weeks>> as my focus tool. That remains to be seen.
+
+
+### Day 004/100: 01-10-2024
+
+**Today's Progress**: 
+Progressed the Codecademy 'Find Your Hat challenge project
+
+**Thoughts:** 
+First time in a long while doing any coding that was more than simply obeying orders to follow a 'project' point by point. Some what. Frustrating how much I had to look up and go back over the relevant lessons but felt good nonetheless.
+
+[Proposal/Plan for the next day
+
+**Link to Work:**
+main.js now updated with some of my own work:
+
+https://github.com/mcnairsa/CP-Find-Your-Hat
+
+**Intention and expectation for the next day**
+Tomorrow, in the spirit of 'Start with the end in mind' (today's 'Habit') I aim to make significant progress with this project if not complete it.
+
+**Pay Forward:**
+1. @ someone on LinkedIn but I accidentally deleted if from here
+2. @spsinghrathore on Codecademy
+
+
+
+### Day nnn/100: dd-mm-yyyy
+
+**Today's Progress**: 
+[Started ... ]
+[Progressed ... ]
+[Completed ... ]
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+[Proposal/Plan for the next day
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for the next day**
+
+**Pay Forward:**
+1. 
+2. 
+
