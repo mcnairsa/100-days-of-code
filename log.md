@@ -82,8 +82,27 @@ https://github.com/mcnairsa/CP-Find-Your-Hat
 Tomorrow, in the spirit of 'Start with the end in mind' (today's 'Habit') I aim to make significant progress with this project if not complete it.
 
 **Pay Forward:**
-1. @ someone on LinkedIn but I accidentally deleted if from here
+1. @Asiya Md on LinkedIn
 2. @spsinghrathore on Codecademy
+
+
+### Day 005/100: 02-10-2024
+
+**Today's Progress**: 
+Progressed the Find Your Hat game. I have the main game loop in place.
+
+**Thoughts:** 
+Moving slowly and taking one step at a time is working. As I come across any aspect of JS that I'm not sure of I am going back to the Codecademy lessons and as a minimum using the practice facility as a refresher.
+
+**Link to Work:**
+https://github.com/mcnairsa/CP-Find-Your-Hat/blob/main/main.js
+
+**Intention and expectation for tomorrow:**
+Tomorrow I aim to complete this project at least to the minimum specification given.
+
+**Pay Forward:**
+1. @Kayla Arnold on Cc
+2. @Abhishek on Cc
 
 
 
@@ -103,7 +122,7 @@ Tomorrow, in the spirit of 'Start with the end in mind' (today's 'Habit') I aim 
 [Link to GH repo or other ...]
 [Explanation of why no link ...]
 
-**Intention and expectation for the next day**
+**Intention and expectation for tomorrow:**
 
 **Pay Forward:**
 1. 
