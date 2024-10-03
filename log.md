@@ -106,6 +106,53 @@ Tomorrow I aim to complete this project at least to the minimum specification gi
 
 
 
+### Day 006/100: 03-10-2024
+
+**Today's Progress**: 
+[Started ... ]
+[Progressed ... ]
+[Completed ... ]
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+[Proposal/Plan for the next day
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+
+**Pay Forward:**
+1. To: https://community.codecademy.com/u/f93c362b on Cc
+I can identify with what you say  
+
+Although I’ve studied the material before in going through the F-S path I’ve not really grasped it. I find that the F-SE modules and he whole of F-SE can be overwhelming. Recently I’ve started searching for the individual courses. Each one has a certificate of achievement and each is only expected to take 3 or 4 hours. That’s with the quiz and the end of lesson project. 
+
+Also it helps me to use the quizzes as a learning resource. I go back over them. If I get less than 100% consistently I use the practice sessions until I feel I have grokked it. 
+
+The most important skill in learning anything is learning how to learn. There’s a useful resource here
+
+Go well
+
+
+
+
+2.To @Rea on fCC'd Discord 100-Days-of-Code channel
+Good luck with the journey @Rea
+
+It looks like you're taking very full notes there. I've alwasys had a difficult relationship with note-taking. I'm interested to know what you do with them, how they help you learn.
+
+Bonus: https://community.codecademy.com/u/525664b8 
+Anyone interested in build a world changing product? I need data science, Back End,and A.I work? I’m a UX designer so I can handle product direction, UX, and business strategy.
+
+My Post:
+Interesting.
+
+Would you like to share information about your product? In what way will it change the world? How will it make the world a better place for us and future generations?
+
+
 ### Day nnn/100: dd-mm-yyyy
 
 **Today's Progress**: 
