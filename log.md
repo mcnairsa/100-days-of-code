@@ -109,20 +109,19 @@ Tomorrow I aim to complete this project at least to the minimum specification gi
 ### Day 006/100: 03-10-2024
 
 **Today's Progress**: 
-[Started ... ]
-[Progressed ... ]
-[Completed ... ]
+More of a thinking about sort of a day than a coding day.
 
 
 **Thoughts:** 
-[Observation on how it felt ... ]
+Today I find that if I call it programming rather than coding it makes me feel better.
+
 [Proposal/Plan for the next day
 
 **Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
+Noting committed today, see above
 
 **Intention and expectation for tomorrow:**
+Tomorrow I hope to have more focus
 
 **Pay Forward:**
 1. To: https://community.codecademy.com/u/f93c362b on Cc
