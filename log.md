@@ -115,8 +115,6 @@ More of a thinking about sort of a day than a coding day.
 **Thoughts:** 
 Today I find that if I call it programming rather than coding it makes me feel better.
 
-[Proposal/Plan for the next day
-
 **Link to Work:**
 Noting committed today, see above
 
@@ -152,6 +150,59 @@ Interesting.
 Would you like to share information about your product? In what way will it change the world? How will it make the world a better place for us and future generations?
 
 
+### Day 007/100: 04-10-2024
+
+**Today's Progress**: 
+I did a small amount of project work but didn't commit anything.
+I intended to do more but fell asleep at the wheel so gave up.
+
+**Thoughts:** 
+Doing the pay forward is what matters to me most. I put my thoughts in writing and may record them (in summary, the original isn't in an appropriate form for sharing atm) here later.
+
+**Link to Work:**
+Nothing commited
+
+**Intention and expectation for tomorrow:**
+Fail better...
+
+**Pay Forward:**
+1. ?
+2. ?
+[I did the pay forward but didn't record the details. I'll update this later, perhaps...]
+
+### Day 008/100: 05-10-2025
+
+**Today's Progress**: 
+Progressed the Find Your Hat Codecademy project
+
+On checking in with the AI (on the Codecademy learning environment) I got this:
+It looks like you’re experiencing an ENXIO error, which typically means that the program is trying to access a device that’s unavailable, in this case, /dev/tty. This often occurs in environments where standard input/output is not available, such as certain online coding platforms or during tests. To fix this, you can replace the prompt implementation with a mock input or testing framework suitable for the environment you’re using, or simulate user input in your tests.
+
+Here’s how you can fix line 40 by using a placeholder for user input:
+
+... It looks to me like it's time to take this off-platform.
+
+**Thoughts:**
+[Observation on how it felt ... ]
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+Start working on this locally. I'll still use the Codecademy learning environment because of the feedback I can get from the AI but it feels like time to get a bit more independent of it.
+
+**Pay Forward:**
+1. @Grey on fCC Discord
+Hi Grey
+Hi! Sounds like you have a proper plan in place. Looking forward to seeing your progress😃
+
+2. @mynameiserr on fCC Discord
+[Finished a block of fCC curriculum]
+Hi My Name is Err
+Is that block of the fCC curriculum finished? Always feels good to me to get a chunk of something ticked off. Keep it up!
+
+
 ### Day nnn/100: dd-mm-yyyy
 
 **Today's Progress**: 
@@ -162,13 +213,36 @@ Would you like to share information about your product? In what way will it chan
 
 **Thoughts:** 
 [Observation on how it felt ... ]
-[Proposal/Plan for the next day
 
 **Link to Work:**
 [Link to GH repo or other ...]
 [Explanation of why no link ...]
 
 **Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+**Pay Forward:**
+1. 
+2. 
+
+
+### Day nnn/100: dd-mm-yyyy
+
+**Today's Progress**: 
+[Started ... ]
+[Progressed ... ]
+[Completed ... ]
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
 
 **Pay Forward:**
 1. 
