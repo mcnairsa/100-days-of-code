@@ -145,7 +145,7 @@ Bonus: https://community.codecademy.com/u/525664b8
 Anyone interested in build a world changing product? I need data science, Back End,and A.I work? I’m a UX designer so I can handle product direction, UX, and business strategy.
 
 My Post:
-Interesting.
+Interesting.	
 
 Would you like to share information about your product? In what way will it change the world? How will it make the world a better place for us and future generations?
 
@@ -172,8 +172,10 @@ Fail better...
 
 ### Day 008/100: 05-10-2025
 
-**Today's Progress**: 
+**Today's Progress**:
 Progressed the Find Your Hat Codecademy project
+
+Note: not that I expect anybody to be looking at it but I muffed up the days on the commit messages.
 
 On checking in with the AI (on the Codecademy learning environment) I got this:
 It looks like you’re experiencing an ENXIO error, which typically means that the program is trying to access a device that’s unavailable, in this case, /dev/tty. This often occurs in environments where standard input/output is not available, such as certain online coding platforms or during tests. To fix this, you can replace the prompt implementation with a mock input or testing framework suitable for the environment you’re using, or simulate user input in your tests.
@@ -186,8 +188,8 @@ Here’s how you can fix line 40 by using a placeholder for user input:
 [Observation on how it felt ... ]
 
 **Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
+The changes aren't great but here's the link nonetheless
+https://github.com/mcnairsa/CP-Find-Your-Hat
 
 **Intention and expectation for tomorrow:**
 Start working on this locally. I'll still use the Codecademy learning environment because of the feedback I can get from the AI but it feels like time to get a bit more independent of it.
