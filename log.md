@@ -105,12 +105,10 @@ Tomorrow I aim to complete this project at least to the minimum specification gi
 2. @Abhishek on Cc
 
 
-
 ### Day 006/100: 03-10-2024
 
 **Today's Progress**: 
 More of a thinking about sort of a day than a coding day.
-
 
 **Thoughts:** 
 Today I find that if I call it programming rather than coding it makes me feel better.
@@ -132,9 +130,6 @@ Also it helps me to use the quizzes as a learning resource. I go back over them.
 The most important skill in learning anything is learning how to learn. There’s a useful resource here
 
 Go well
-
-
-
 
 2.To @Rea on fCC'd Discord 100-Days-of-Code channel
 Good luck with the journey @Rea
@@ -169,6 +164,7 @@ Fail better...
 1. ?
 2. ?
 [I did the pay forward but didn't record the details. I'll update this later, perhaps...]
+
 
 ### Day 008/100: 05-10-2025
 
@@ -205,6 +201,126 @@ Hi My Name is Err
 Is that block of the fCC curriculum finished? Always feels good to me to get a chunk of something ticked off. Keep it up!
 
 
+### Day 007/100: 04-10-2024
+
+**Today's Progress**: 
+I did a small amount of project work but didn't commit anything.
+I intended to do more but fell asleep at the wheel so gave up.
+
+**Thoughts:** 
+Doing the pay forward is what matters to me most. I put my thoughts in writing and may record them (in summary, the original isn't in an appropriate form for sharing atm) here later.
+
+**Link to Work:**
+Nothing commited
+
+**Intention and expectation for tomorrow:**
+Fail better...
+
+
+### Day 008/100: 05-10-2025
+
+**Today's Progress**:
+Progressed the Find Your Hat Codecademy project
+
+Note: not that I expect anybody to be looking at it but I muffed up the days on the commit messages.
+
+On checking in with the AI (on the Codecademy learning environment) I got this:
+It looks like you’re experiencing an ENXIO error, which typically means that the program is trying to access a device that’s unavailable, in this case, /dev/tty. This often occurs in environments where standard input/output is not available, such as certain online coding platforms or during tests. To fix this, you can replace the prompt implementation with a mock input or testing framework suitable for the environment you’re using, or simulate user input in your tests.
+
+Here’s how you can fix line 40 by using a placeholder for user input:
+
+... It looks to me like it's time to take this off-platform.
+
+**Thoughts:**
+[Observation on how it felt ... ]
+
+**Link to Work:**
+The changes aren't great but here's the link nonetheless
+https://github.com/mcnairsa/CP-Find-Your-Hat
+
+**Intention and expectation for tomorrow:**
+Start working on this locally. I'll still use the Codecademy learning environment because of the feedback I can get from the AI but it feels like time to get a bit more independent of it.
+
+
+### Day 009/100: 06-10-2024
+
+**Today's Progress**: 
+Progressed the Codecademy Find Your Hat challenge project. Not a lot just a little. I have realised that the code needs to be restructured. The game loop should be a method of the class. Mainly I was making minor adjustments. 
+
+
+**Thoughts:**
+This works much better on the local environment than on the platform.
+
+**Link to Work:**
+https://github.com/mcnairsa/CP-Find-Your-Hat/main.js
+
+**Intention and expectation for tomorrow:**
+I now have a better perspective on the Find Your Hat project. I hope to finish it tomorrow.
+
+**Pay Forward:**
+1. 
+ 
+@Jonathan Kidd
+On: Cc’s Circle
+In response to:
+What to do next
+As the title suggest, I'm not to sure what to do next. I'm about to finish the Python 3 course and not sure what to choose next. Do I go for a career path like Full Stack? Or go for an individual language like Java, JavaScript, C# or Swift?
+
+
+What are you doing this for? Are you hoping to make a career out of it or do you just want to learn as much about IT as possible? In what follows I’ll assume it’s the former.
+
+tl;dr
+
+If you know what you want to achieve google a bit to find the path to that goal and follow it.
+If you don’t know, play around with what’s on offer on Codecademy and see what you feel drawn to.
+
+From my previous experience working in IT I would say you are better off extending your knowledge of Python. A successful IT career depends on the right balance of breadth and depth. Breadth is measured in how many languages you know e.g. ‘C’, C++, C#, Java and similar languages or frameworks e.g. React, Vue, Angular. Depth is measured in how well you know any one language or framework. People get more respect for depth of knowledge. Doing 5 introductory courses means you know how to write a for loop or create a class 5 different ways but can’t do much with any language. Doing the next level course (in your case Python?) means you have more to offer.
+
+IT careers are built on skill sets. A skill set usually includes knowledge of a programming language but includes more besides. Most commercial applications use some kind of database. It often includes knowledge of an ‘industry’ like marketing, manufacture, insurance or healthcare. It also often includes specific packages that cater for the needs of those industries. Or if you want to go into, for example Data Science, you would need to be well-versed in libraries that have that focus.
+
+As you’re asking this question I guess you don’t have that kind of focus yet. Taking a breadth-first approach may be more appropriate to you right now. If that’s the case I suggest you try the other languages.
+
+One thing that will stand you in good stead is to actually know how to use your computer. The Codecademy learning environment is great, it’s safe and (usually) comfortable but it’s an unreal world. Learn the command line and how to navigate the file system. Learn to use an editor. Learn how to test the stuff you write for yourself.
+
+And make sure you properly learn stuff. For example, the first 5 to 10 lines or so of a webpage from <head> to </head> are stuff that no web developer is ever likely to write on the job. It’s boilerplate that will come from a template or be generated for you. If I were interviewing though l’d pick the persons who can walk up to the whiteboard and write that stuff without thinking over the one who hasn’t bothered to learn it. To give another example, can that person tell me straight off how the Big O notation works on a simple search vs a binary search. If not why not. Confession time: I couldn’t. That’s why I’m sat in bed typing this rather than being paid to do something I enjoy. It’s also why IT and I parted company over years ago.
+
+hth
+
+Sorry turned into a rant aimed mainly at myself…
+
+2.
+@spsinghrathore
+On: Cc’s Circle
+In response to:
+Day 60 "constant learning"
+
+what i learned today is in tech “i always be an amateur - Charlie Chaplin“
+I’ll have to learn and practice everyday! (You don’t need enough to take on new challenge , it’s the challenge itself teach you!)
+
+Today’s learning Log→
+
+1. Bitwise operators and operations (left shift « , right shift »)
+2. DOM Navigator and window from wesbos
+
+My response:
+
+Ouch! Sounds painful. My brain hurts just reading your post. Well done!
+
+@Gavin O’Brien
+On: Cc’s Circle platform
+In response to:
+Has anyone ever used or heard about the website (www.focusmate.com)?
+
+I’ve used it a lot over the last few years to provide accountability and motivation for all sorts of tasks (including coding) and wanted to share in case it could help others too
+
+My response (after following the link):
+
+Awesome! Thank you:-)
+
+Time taken: approx 1.5 hrs and only one
+
+
+
 ### Day nnn/100: dd-mm-yyyy
 
 **Today's Progress**: 
@@ -226,8 +342,6 @@ Is that block of the fCC curriculum finished? Always feels good to me to get a c
 **Pay Forward:**
 1. 
 2. 
-
-
 ### Day nnn/100: dd-mm-yyyy
 
 **Today's Progress**: 
@@ -249,4 +363,3 @@ Is that block of the fCC curriculum finished? Always feels good to me to get a c
 **Pay Forward:**
 1. 
 2. 
-
