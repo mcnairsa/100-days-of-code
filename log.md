@@ -160,62 +160,6 @@ Nothing commited
 **Intention and expectation for tomorrow:**
 Fail better...
 
-**Pay Forward:**
-1. ?
-2. ?
-[I did the pay forward but didn't record the details. I'll update this later, perhaps...]
-
-
-### Day 008/100: 05-10-2025
-
-**Today's Progress**:
-Progressed the Find Your Hat Codecademy project
-
-Note: not that I expect anybody to be looking at it but I muffed up the days on the commit messages.
-
-On checking in with the AI (on the Codecademy learning environment) I got this:
-It looks like you’re experiencing an ENXIO error, which typically means that the program is trying to access a device that’s unavailable, in this case, /dev/tty. This often occurs in environments where standard input/output is not available, such as certain online coding platforms or during tests. To fix this, you can replace the prompt implementation with a mock input or testing framework suitable for the environment you’re using, or simulate user input in your tests.
-
-Here’s how you can fix line 40 by using a placeholder for user input:
-
-... It looks to me like it's time to take this off-platform.
-
-**Thoughts:**
-[Observation on how it felt ... ]
-
-**Link to Work:**
-The changes aren't great but here's the link nonetheless
-https://github.com/mcnairsa/CP-Find-Your-Hat
-
-**Intention and expectation for tomorrow:**
-Start working on this locally. I'll still use the Codecademy learning environment because of the feedback I can get from the AI but it feels like time to get a bit more independent of it.
-
-**Pay Forward:**
-1. @Grey on fCC Discord
-Hi Grey
-Hi! Sounds like you have a proper plan in place. Looking forward to seeing your progress😃
-
-2. @mynameiserr on fCC Discord
-[Finished a block of fCC curriculum]
-Hi My Name is Err
-Is that block of the fCC curriculum finished? Always feels good to me to get a chunk of something ticked off. Keep it up!
-
-
-### Day 007/100: 04-10-2024
-
-**Today's Progress**: 
-I did a small amount of project work but didn't commit anything.
-I intended to do more but fell asleep at the wheel so gave up.
-
-**Thoughts:** 
-Doing the pay forward is what matters to me most. I put my thoughts in writing and may record them (in summary, the original isn't in an appropriate form for sharing atm) here later.
-
-**Link to Work:**
-Nothing commited
-
-**Intention and expectation for tomorrow:**
-Fail better...
-
 
 ### Day 008/100: 05-10-2025
 
@@ -319,6 +263,50 @@ Awesome! Thank you:-)
 
 Time taken: approx 1.5 hrs and only one
 
+### Day 010/100: 07-10-2024
+
+**Today's Progress**: 
+More on Find Your Hat. I took a step back, read the rubric properly and re-organised my main game loop into a method of its own. I intended to come back to it but life and family got in the way.
+I have also moved off-platform.
+
+**Thoughts:** 
+Feels good to have a better grip on the program. Being off-platform feels a lot more grown up. In the back-ground I am working back over some of the concepts in <<The Seven Habits of Highly Effective People>> The first three habits relate to moving from dependence [in this case on the hand-holding of having the learning platform] to independence. Independence is not a goal in itself but a necessary step in the direction of interdependence. Which is what we're all about here, right?
+
+**Link to Work:**
+https://github.com/mcnairsa/CP-Find-Your-Hat/blob/main/main.js
+
+**Intention and expectation for tomorrow:**
+Same as it ever was, same as it ever was ... [complete the project]
+
+**Pay Forward:**
+1. Fellow 100-Dayer
+@Nomsa Gift Ngwenya
+in Cc Circle
+OP: Day 12 in Full-Stack Development: Web App For Asking My Crush Out
+Posted: 07-10-2024
+
+I wanted to take a moment to share my learning experience and a fun project I recently completed. While I couldn’t finish the full Codecademy Full Stack Developer course due to financial constraints, I made some amazing progress on my journey as an aspiring developer.
+
+One of my proudest achievements so far is a web application I built to ask my crush out on a date! ...
+
+My response
+
+Awesome idea. Glad to hear it did the trick too:-)
+
+How are you carrying on with the Full-Stack journey if you can't continue on Codecademy? Have you found freeCodeCamp.org's curriculum? Or The Odin Project? I recently discovered that IBM have a Full-Stack Engineer Certification as well and I think that may be free. Also (sorry Codecademy Sales:-) you can do quite a lot of F-SE for free if you take the individual courses.
+
+That's a really comprehensive README.md, btw. It puts any and all of mine to shame!
+ 
+2. 
+@spsinghrathore
+On: Cc’s Circle
+In response to:
+Day 59 "constant learning"
+On: 07-10-2024
+
+That's a great achievement. More pwoer to your finger tips.
+
+Are you following the Codecademy Full-Stack curriculum? If so how far into are you? If not what are you following?
 
 
 ### Day nnn/100: dd-mm-yyyy
@@ -341,25 +329,5 @@ Time taken: approx 1.5 hrs and only one
 
 **Pay Forward:**
 1. 
-2. 
-### Day nnn/100: dd-mm-yyyy
+2.  
 
-**Today's Progress**: 
-[Started ... ]
-[Progressed ... ]
-[Completed ... ]
-
-
-**Thoughts:** 
-[Observation on how it felt ... ]
-
-**Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
-
-**Intention and expectation for tomorrow:**
-[Proposal/Plan for the next day]
-
-**Pay Forward:**
-1. 
-2. 
