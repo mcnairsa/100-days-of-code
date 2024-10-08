@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 001/100: Seventh Day, 28th of Nineth Month, 2024
-
 **Today's Progress**: Work on Codecademy Challenge Project Website Design System
 
 **Thoughts:** From Day One of Round One: 'It feels good to be starting this for real at last.'
@@ -307,6 +306,29 @@ On: 07-10-2024
 That's a great achievement. More pwoer to your finger tips.
 
 Are you following the Codecademy Full-Stack curriculum? If so how far into are you? If not what are you following?
+
+
+### Day 011/100: 08-10-2024
+
+**Today's Progress**: 
+Progressed Find Your Hat. More work on the game engine.
+
+
+**Thoughts:** 
+I've come up against a less than perfect understanding of updating elements withing a multidimensional array (JS). Time to go back to learning-mode.
+
+**Link to Work:**
+https://github.com/mcnairsa/CP-Find-Your-Hat/blob/main/main.js
+
+**Intention and expectation for tomorrow:**
+More of the same, with the emphasis on 'more' please.
+
+**Pay Forward:**
+1. @ paclarap on fCC/Discord re multiple activities in amongst childcare
+Me: WoW! You've been busy! When do you sleep?
+
+2. @Jericho Tagayon on Cc/Circle re 82% F-SE progress in 7 months
+Good progress m8. Keep it up!
 
 
 ### Day nnn/100: dd-mm-yyyy
