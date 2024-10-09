@@ -314,7 +314,7 @@ Are you following the Codecademy Full-Stack curriculum? If so how far into are y
 Progressed Find Your Hat. More work on the game engine.
 
 
-**Thoughts:** 
+**Thoughts:**
 I've come up against a less than perfect understanding of updating elements withing a multidimensional array (JS). Time to go back to learning-mode.
 
 **Link to Work:**
@@ -329,6 +329,35 @@ Me: WoW! You've been busy! When do you sleep?
 
 2. @Jericho Tagayon on Cc/Circle re 82% F-SE progress in 7 months
 Good progress m8. Keep it up!
+
+
+### Day 012/100: 08-10-2024
+
+**Today's Progress**: 
+Completed the .playGame() method of Find Your Hat project (Codecademy-> Full-Stack->Back-End->Introduction to Back-End)
+
+
+**Thoughts:** 
+Good to have something that works
+Irritated with myself as to how I've gone about the whole thing
+
+
+**Link to Work:**
+https://github.com/mcnairsa/CP-Find-Your-Hat/blob/main/main.js
+
+
+**Intention and expectation for tomorrow:**
+Complete the .generateField() method
+Work much more systematically on this final piece of the project
+
+**Pay Forward:**
+1. Mari B on fCC Disxord channel; 01/10/2024
+in response to: OP restarting at Day1
+Me: Well done for not giving up! Slow and steady wins the race  :smiley: 
+
+2. Adam on Cc Circle
+In response to: Introduction (in F-S) and announcement of starting a programme with Per Scholas
+Me: Congratualations and good luck in bringing your dreams to life
 
 
 ### Day nnn/100: dd-mm-yyyy
