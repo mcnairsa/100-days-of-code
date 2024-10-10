@@ -355,6 +355,7 @@ Work much more systematically on this final piece of the project
 in response to: OP restarting at Day1
 Me: Well done for not giving up! Slow and steady wins the race  :smiley: 
 
+
 2. Adam on Cc Circle
 In response to: Introduction (in F-S) and announcement of starting a programme with Per Scholas
 Me: Congratualations and good luck in bringing your dreams to life
@@ -381,4 +382,78 @@ Me: Congratualations and good luck in bringing your dreams to life
 **Pay Forward:**
 1. 
 2.  
+
+### Day 013/100: 12-10-2024
+
+**Today's Progress**: 
+Progressed Codecademy off-platform pjoject Tea Cozy
+Involves doing battle with Flexbox which I haven't looked at in mohths. Pretty rusty on CSS in general tbh.
+Got back into that headspace and made progress with the contacts and footer sections.
+
+
+**Thoughts:** 
+This is a project that folks on the Full-Stack group on Codecademy were asking for help with. I feels like I might be able to shed some light on it for people who are still in the fog.
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+**Pay Forward:**
+1. @Paul... on Cc's Circle
+Responding to Intro and '1961' + ZX81 experience
+Me: Hey   !
+
+You beat me by one model. My first was the ZXSpectrum. I dabbled in various languages. Basic, Pascal, C, possibly Fortran and Lisp and managed to learn zero programming from any of it. My crowning achievement was to set the text colour to black before I’d thought to set the background colour to something other than black … oops! I think I pulled the plug and vowed never to do anything quite so idiotic ever again. A vow soon broken, no doubt.
+
+Keep it up.
+
+If I were to give advice to anyone starting out on this path, I would say:
+
+1. think about the time you can commit to this
+
+2. think about how long you want to give it before you feel you have got to where you have enough confidence and independence to be able to make your own self-directed projects
+
+3. … and then find a path that will get you there in your timeframe.
+
+Full-Stack may be what you want if you have the time and want a well-rounded level of knowledge. Or you might want to focus in on either Front-End or Back-End. The front-end is great for design and making pretty things. Back-End is more pointy-headed. There’s pleny of scope in both for point-headedness and prettiness though.
+
+There again maybe Python, Data Science  and all things Data is your thing.
+
+Not sure if you were asking for advice but you got it anyway, my Bad!
+
+Go well!
+
+btw:  I have seniority over you in years if not in tech, 1958 here
+PPS: If you’re into Data look at MongoDB. You may have already but you didn’t mention it.
+2. @mello on fCC's Discord
+re: Day 2 ' does ... count'
+Me: What counts is anything as long as you turn up and do something. Learning how to learn is the best investment you can make in the rest of your life.
+Keep it up!
+Preceeded by some daft bouncing koala (I think it's a koala)
+
+
+### Day nnn/100: dd-mm-yyyy
+
+**Today's Progress**: 
+[Started ... ]
+[Progressed ... ]
+[Completed ... ]
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+**Pay Forward:**
+1. 
+2.
 
