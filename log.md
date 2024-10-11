@@ -395,11 +395,10 @@ Got back into that headspace and made progress with the contacts and footer sect
 This is a project that folks on the Full-Stack group on Codecademy were asking for help with. I feels like I might be able to shed some light on it for people who are still in the fog.
 
 **Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
+https://github.com/mcnairsa/OPP-Tea-Cozy
 
 **Intention and expectation for tomorrow:**
-[Proposal/Plan for the next day]
+Be good to finish this off. Ditto the Find Your Hat thing.
 
 **Pay Forward:**
 1. @Paul... on Cc's Circle
@@ -433,6 +432,35 @@ re: Day 2 ' does ... count'
 Me: What counts is anything as long as you turn up and do something. Learning how to learn is the best investment you can make in the rest of your life.
 Keep it up!
 Preceeded by some daft bouncing koala (I think it's a koala)
+
+
+### Day 014/100: 11-10-2024
+
+**Today's Progress**: 
+Progressed Find Your Hat: Working on the .generateField() method to create a game field from given prameters
+
+
+**Thoughts:** 
+Tired so I'm heading to bed now. Would have like to do more but there you go.
+I wasn't too sure how to poplulate the 2d array but found a really useful article. (Linked to in the code.)
+Catching up to where I wanted to be with New Amsterdam felt good but doing more coding might have felt a whole lot better.
+
+
+**Link to Work:**
+https://github.com/mcnairsa/CP-Find-Your-Hat
+
+
+**Intention and expectation for tomorrow:**
+
+
+**Pay Forward:**
+1. @Antonio on Cc's Circle
+re: End of Lesson Prj: TaskBoard
+Me: Nice :-)
+Also sent a PM re a typo
+
+2. @Ayden on fCC's Discord
+Me: Awesome! The journey of 1,000,000 lines of code starts with the first statement 🙂
 
 
 ### Day nnn/100: dd-mm-yyyy
