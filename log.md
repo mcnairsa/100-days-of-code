@@ -383,7 +383,7 @@ Me: Congratualations and good luck in bringing your dreams to life
 1. 
 2.  
 
-### Day 013/100: 12-10-2024
+### Day 013/100: 09-10-2024
 
 **Today's Progress**: 
 Progressed Codecademy off-platform pjoject Tea Cozy
@@ -461,6 +461,37 @@ Also sent a PM re a typo
 
 2. @Ayden on fCC's Discord
 Me: Awesome! The journey of 1,000,000 lines of code starts with the first statement 🙂
+
+
+### Day 015/100: 12-10-2024
+
+**Today's Progress**: 
+A learning day. Did some more C# on Codecademy.
+
+
+**Thoughts:** 
+If I'm truly honest today was a near 100Days disaster. I did over an hour of learning so I'm letting it count as a day not missed.
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Before I do anything else I am going to play the day. I shall plan what I intend to work on, how long I will give to each task and what I expect to achieve for each task. At the end of the day (i.e. tea-time not a late bed-time) I shall assess how realistic my expectations were.
+
+**Pay Forward:**
+1. @Ajay Yadav on Cc's Circle
+re: Day 2 and how to remember stuff.
+Me: Well done for embarking on the challenge @Ajay Yadav I really hope it helps take your coding forward.
+
+As for helping to maie things stick. If you have the time - ore are willing to make time - investigate ‘spaced repetition’ and the Leitner box system. To make the most of your Codecademy time try going over the quizzes in the lessons. Most lessons will offer you a structured practice session. I find the quizzes work well in identifying what it is I haven’t understood.
+
+For example, I have sturggled with the CSS position property values and particularly ‘relative’ and ‘absolute’. Mainly because it seems to me they are both relative to something and I could never remember which was which. I did the quiz again (I finished that module ages ago) and now I’ve finally got it ‘fixed’ (pun semi-intentional) in my head.
+
+Good luck!
+
+2. @Lemmy on fCC's Discord
+Re: Day 2 and already moving onto CSS
+Me: Woohoo! that's great progress!
 
 
 ### Day nnn/100: dd-mm-yyyy
