@@ -494,6 +494,33 @@ Re: Day 2 and already moving onto CSS
 Me: Woohoo! that's great progress!
 
 
+### Day 016/100: 12-10-2024
+
+**Today's Progress**: 
+Another learning day. More C# on Codecademy.
+
+
+**Thoughts:** 
+I'm OK with today being a learning day. I also set up a new TV that involved significant re-organisation of furniture. It's bigger than the previous one by quite a margin.
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+I have a sense something BiG is about to happen in the sphere of self-organisation. Watch this space... but please don't hlod your breath.
+
+**Pay Forward:**
+1. @DreamBigGo on fCC's Discord
+Re: 'I didn't do much...'
+Me: You turned up and did something, that's the most important thing of all. Well done!
+
+2. @Lanclelot on Cc's Circle
+Re: Intoruduction and What got you into IT.
+Me: Good to see you here Lancelot. Enjoy!
+
+Too long ago to remember what if anything specific  got me into IT. Iwas drawn to it like a moth to a candle flame and have been burning my wings off over and over ever since.
+
+
 ### Day nnn/100: dd-mm-yyyy
 
 **Today's Progress**: 
