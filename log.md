@@ -494,7 +494,7 @@ Re: Day 2 and already moving onto CSS
 Me: Woohoo! that's great progress!
 
 
-### Day 016/100: 12-10-2024
+### Day 016/100: 13-10-2024
 
 **Today's Progress**: 
 Another learning day. More C# on Codecademy.
@@ -515,22 +515,43 @@ Re: 'I didn't do much...'
 Me: You turned up and did something, that's the most important thing of all. Well done!
 
 2. @Lanclelot on Cc's Circle
-Re: Intoruduction and What got you into IT.
+Re: Introduction and What got you into IT.
 Me: Good to see you here Lancelot. Enjoy!
 
 Too long ago to remember what if anything specific  got me into IT. Iwas drawn to it like a moth to a candle flame and have been burning my wings off over and over ever since.
 
 
-### Day nnn/100: dd-mm-yyyy
+### Day 017/100: 14-10-2024
 
 **Today's Progress**: 
-[Started ... ]
-[Progressed ... ]
-[Completed ... ]
+Completed Find Your Hat as far as the core requirements identified in the project description. I may return to it later to try some of the suggestions for improvements.
 
 
 **Thoughts:** 
+Feels good to have this one behind me.
+
+**Link to Work:**
+
+
+**Intention and expectation for tomorrow:**
+Try to tick off one more project. Aim is to get Codecademy's Full-Stack Engineer career path to at least 90% complete.
+I aim to get the rest of my Codecademy courses to 90% by the end of this week
+
+**Pay Forward:**
+1. @Chenwi Edna on fCC's Discord
+re: Day One and downloading & configuring environment
+me: Welcome to the challenge! Great job! The first step is the biggest, especially when it means configuring your local environment.
+
+2.@DaniMetroplex on fCC's Discord
+re: '... more importantly, got ideas for future projects.'
+me: Ah yes I know that feeling. It's good when things seem to broaden out.
+
+
+### Day 000/100: dd-mm-yyyy
+
+**Thoughts:** 
 [Observation on how it felt ... ]
+
 
 **Link to Work:**
 [Link to GH repo or other ...]
@@ -538,6 +559,7 @@ Too long ago to remember what if anything specific  got me into IT. Iwas drawn t
 
 **Intention and expectation for tomorrow:**
 [Proposal/Plan for the next day]
+
 
 **Pay Forward:**
 1. 
