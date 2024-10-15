@@ -547,7 +547,36 @@ re: '... more importantly, got ideas for future projects.'
 me: Ah yes I know that feeling. It's good when things seem to broaden out.
 
 
+### Day 018/100: 15-10-2024
+**Today's Progress**: 
+Added the Locations section to Tea Cozy.
+Tested and found some bugs to sort out tomorrow.
+
+**Thoughts:**
+Feels good to have the last section added.
+Thought I'd finished it ... Ho hum.
+
+**Link to Work:**
+https://github.com/mcnairsa/OPP-Tea-Cozy
+
+**Intention and expectation for tomorrow:**
+Complete Tea Cozy to spec.
+
+
+**Pay Forward:**
+1.  @ Riley Brickman on Cc's Circle
+re: Code [JS-based] typing game
+me: Love it! Brilliant concept. Book-marked…
+
+2. @ Mari B on fCC's Discord
+re: '... some days [reading is] all I've been able do.' 
+me: Well done for keeping going. Anything is more than nothing
+
+
 ### Day 000/100: dd-mm-yyyy
+**Today's Progress**: 
+[Completed ... &c
+
 
 **Thoughts:** 
 [Observation on how it felt ... ]
@@ -562,6 +591,11 @@ me: Ah yes I know that feeling. It's good when things seem to broaden out.
 
 
 **Pay Forward:**
-1. 
-2.
+1.  @ ... on ...
+re:
+me:
+
+2. @ ... on ...
+re:
+me:
 
