@@ -573,6 +573,35 @@ re: '... some days [reading is] all I've been able do.'
 me: Well done for keeping going. Anything is more than nothing
 
 
+### Day 019/100: 16-10-2024
+**Today's Progress**: 
+Completed Tea Cozy according to the spec
+
+
+**Thoughts:**
+Frustrated that I haven't yet worked out how to have text inside a flex container.  However, this is what the sample solution does so I'm leaving it there.
+Good to get this finished though. Disappointed that completing the project didn't increase my progress score.
+
+**Link to Work:**
+[Tea Cozy on GH]
+https://github.com/mcnairsa/OPP-Tea-Cozy
+
+**Intention and expectation for tomorrow:**
+Plan and code the Design System CP
+Note: this will require considerable pruning of ideas and a large helping of humble pie.
+The project is to create a design system within the limits of what has been taught to date on the F-SE path. Not to save or change the world.
+[See also 'Dirty Laundry:...']
+
+**Pay Forward:**
+1.  @ khet6529 on fCC's Discord
+re: Day 1
+me: Well done for committing to the challenge.
+
+2. @ Iconic_Adam on fCC's Discord
+re: never mis-spelling penguin again
+me: Oh! There are just sooo many benefits to learning to code!
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
