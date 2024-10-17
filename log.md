@@ -602,6 +602,33 @@ re: never mis-spelling penguin again
 me: Oh! There are just sooo many benefits to learning to code!
 
 
+### Day 020/100: 17-10-2024
+**Today's Progress**: 
+Made a start on the Challenge Project Build Your Own Design System [Codecademy]
+Or rather worked out where I'd got to with it last time... which wasn't very far. I have the structure of the (one-page) html side of the site already there. Now on GH.
+
+
+**Thoughts:**
+Several late nights in a row have left me feeling that today/-night sleep is the highest priority
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Come up with a structure for my days 
+Focus on project work rather than the learning stuff
+
+**Pay Forward:**
+1.  @Adran on fCC's Discord
+re: Day One and Communication merit badge
+me: Great to see another coder taking up the Challenge. What's the Communication merit badge? Sounds like a Scout thing 
+
+2. @ Blake on fCC's Discord
+re: [reailising the significance of problems solving.
+me: Yes! 'problem solving is a vital skill' ... It is essential to what we do.
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
