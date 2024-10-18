@@ -628,6 +628,37 @@ me: Great to see another coder taking up the Challenge. What's the Communication
 re: [reailising the significance of problems solving.
 me: Yes! 'problem solving is a vital skill' ... It is essential to what we do.
 
+### Day 021/100: 18-10-2024
+**Today's Progress**:
+Posting this now so that I don't forget or fall asleep before I've done it. I will continue after.
+Progressed project: Build a Website Design System [Codecademy] -> Full-Stack Engineer -> Part 1 -> Improved Styling with CSS ...
+
+
+**Thoughts:**
+This project and I have an interesting history. Most of the work I've done today has been to make sense of the ideas I've had about it over the months, and probably years. In that time I accumulated a bunch of thoughts about principles of design (accessibility, process, lots of stuff that has nothing to do with the project spec) and have a bundh of notes and abandoned index.htmls spread across several directoryies and GH repos. I'm now coming back to earth and landing on a solid intention to get this one done and put to bed.
+
+
+**Link to Work:**
+Interim post, project not yet at a postable stage.
+
+**Intention and expectation for tomorrow:**
+Finish the project and move on.
+
+
+**Pay Forward:**
+1.  @Sea on Cc's Circle
+re: old thread annoucing taking up the challenge
+me: Hi  How are you doing? Are you still on with the 100 Days challenge?
+
+I looked for you on the Discord #100-days-of-code channel but don’t see you there.
+
+Hope you’re OK?
+
+2. @ ... on ...
+re: Starting the challenge
+me: Good luck and more power to your fingertips + [thumbs up]+[rocket]+[party-popper]
+
+
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
