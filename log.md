@@ -633,9 +633,11 @@ me: Yes! 'problem solving is a vital skill' ... It is essential to what we do.
 Posting this now so that I don't forget or fall asleep before I've done it. I will continue after.
 Progressed project: Build a Website Design System [Codecademy] -> Full-Stack Engineer -> Part 1 -> Improved Styling with CSS ...
 
++Update+
+I used the GitHub cli for the first time to create a repo from the command line on my local machine. It's super-easy and imo the obvious way to work.d
 
 **Thoughts:**
-This project and I have an interesting history. Most of the work I've done today has been to make sense of the ideas I've had about it over the months, and probably years. In that time I accumulated a bunch of thoughts about principles of design (accessibility, process, lots of stuff that has nothing to do with the project spec) and have a bundh of notes and abandoned index.htmls spread across several directoryies and GH repos. I'm now coming back to earth and landing on a solid intention to get this one done and put to bed.
+This project and I have an interesting history. Most of the work I've done today has been to make sense of the ideas I've had about it over the months, and probably years. In that time I accumulated a bunch of thoughts about principles of design (accessibility, process, lots of stuff that has nothing to do with the project spec) and have a bundle of notes and abandoned index.htmls spread across several directories and GH repos. I'm now coming back to earth and landing on a solid intention to get this one done and put to bed.
 
 
 **Link to Work:**
@@ -659,6 +661,84 @@ re: Starting the challenge
 me: Good luck and more power to your fingertips + [thumbs up]+[rocket]+[party-popper]
 
 
+
+### Day 022/100: 20-10-2024
+**Today's Progress**: 
+Progessed Build a Website Design System
+
+
+**Thoughts:** 
+A lot of life got in the way of making any significant progress today. Ho hum!
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+I dunno. do some real project work maybe?
+
+
+**Pay Forward:**
+1.  @Moises on fCC;s Discord
+re: SSG project on Boot.dev
+me:  Thank you SOoo much for sharing this. Just had a quick look. They had me at 'avoid tutorial hell'! Some years ago I tried to write a site generator in Java. I knew no Java (worked through some chapters of 'Head First Java', 1st edition to try to make sense of it) and got precisely nowhere. End of my short-lived career as a web dev. Will be tracking down the course you're following in the next few days. Thanks again and more power to your 'flying' finger tips.
+
+2. @ Santiago Tomás Vega Freire on fCC's Discord
+re: Learning CSS Grid
+me: How are you liking Grid? Me, I love it. Feels so much more intuitive, and useful, than Flexbox.
+
+
+### Day 000/100: dd-mm-yyyy
+**Today's Progress**: 
+[Completed ... &c
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+
+**Pay Forward:**
+1.  @ ... on ...
+re:
+me:
+
+2. @ ... on ...
+re:
+me:
+
+### Day 000/100: dd-mm-yyyy
+**Today's Progress**: 
+[Completed ... &c
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+
+**Pay Forward:**
+1.  @ ... on ...
+re:
+me:
+
+2. @ ... on ...
+re:
+me:
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
