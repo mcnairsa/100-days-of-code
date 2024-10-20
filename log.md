@@ -656,7 +656,7 @@ I looked for you on the Discord #100-days-of-code channel but don’t see you th
 
 Hope you’re OK?
 
-2. @ ... on ...
+2. @Jesse James on fCC's Discord
 re: Starting the challenge
 me: Good luck and more power to your fingertips + [thumbs up]+[rocket]+[party-popper]
 
@@ -688,31 +688,30 @@ re: Learning CSS Grid
 me: How are you liking Grid? Me, I love it. Feels so much more intuitive, and useful, than Flexbox.
 
 
-### Day 000/100: dd-mm-yyyy
+### Day 023/100: 20-10-2024
 **Today's Progress**: 
-[Completed ... &c
+Decided to give myself a kay off after spending most of the day sorting out an online purchase.
 
 
 **Thoughts:** 
-[Observation on how it felt ... ]
+Looking forward to a full night's sleep
 
 
 **Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
+n/a
 
 **Intention and expectation for tomorrow:**
-[Proposal/Plan for the next day]
+n/a
 
 
 **Pay Forward:**
-1.  @ ... on ...
-re:
-me:
+1.  @ Mari B on fCC's Discord
+re: 3 day's worth of posting; 1st was b'day
+me: One line of code is one more than 0 lines of code. Well done for turning up at the keyboard!
 
-2. @ ... on ...
-re:
-me:
+2. @ iAmJess8 on fCC's Discord
+re: Build a ToDo list app in React
+me: Sounds like you got a lot done. And only on Day 3! Keep it up!
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
