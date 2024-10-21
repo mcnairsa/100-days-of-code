@@ -690,7 +690,7 @@ me: How are you liking Grid? Me, I love it. Feels so much more intuitive, and us
 
 ### Day 023/100: 20-10-2024
 **Today's Progress**: 
-Decided to give myself a kay off after spending most of the day sorting out an online purchase.
+Decided to give myself a day off after spending most of the day sorting out an online purchase.
 
 
 **Thoughts:** 
@@ -713,31 +713,30 @@ me: One line of code is one more than 0 lines of code. Well done for turning up 
 re: Build a ToDo list app in React
 me: Sounds like you got a lot done. And only on Day 3! Keep it up!
 
-### Day 000/100: dd-mm-yyyy
+### Day 024/100: 23-10-2024
 **Today's Progress**: 
-[Completed ... &c
+I am on a learning week so not expecting to do project stuff or have anything to link to.
 
 
 **Thoughts:** 
-[Observation on how it felt ... ]
+Early days. I may have something to reflect on at the end of the week.
 
 
 **Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
+n/a
 
 **Intention and expectation for tomorrow:**
-[Proposal/Plan for the next day]
+I hope to complete a significant amount of each of the Codecademy courses I have to do as part of my Traineeship.
 
 
 **Pay Forward:**
-1.  @ ... on ...
-re:
-me:
+1.  @ @LaurenStark  & @Itachi on fCC's Discord
+re: Starting the challenge
+me:  Well done for committing to the challenge. Looking forward to seeing your progress:-)
 
-2. @ ... on ...
-re:
-me:
+2. @ Faustino on fCC's Discord
+re: 3 days' worth of post but lots done
+me: WoW! That's a lot of stuff done. Are you doing this full time?
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
