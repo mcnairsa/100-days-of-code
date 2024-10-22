@@ -713,7 +713,7 @@ me: One line of code is one more than 0 lines of code. Well done for turning up 
 re: Build a ToDo list app in React
 me: Sounds like you got a lot done. And only on Day 3! Keep it up!
 
-### Day 024/100: 23-10-2024
+### Day 024/100: 21-10-2024
 **Today's Progress**: 
 I am on a learning week so not expecting to do project stuff or have anything to link to.
 
@@ -737,6 +737,32 @@ me:  Well done for committing to the challenge. Looking forward to seeing your p
 2. @ Faustino on fCC's Discord
 re: 3 days' worth of post but lots done
 me: WoW! That's a lot of stuff done. Are you doing this full time?
+
+### Day 025/100: 22-10-2024
+**Today's Progress**: 
+Almost completed a module of the Codecademy PHP introductory course. Working on a build an adventure game guided project to consolidate conditionals.
+
+
+**Thoughts:** 
+Frankly, I'm finding it pretty tedious.
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+More of the same
+
+
+**Pay Forward:**
+1.  @ Nekit on fCC's Discord
+re: Got certificate for 'Front End Development Libraries'
+me: WooHoo!
+
+2. @ Grymnir on fCC's Discord
+re: Starting again Day 1
+me: Good luck! Hope you get to finish it this time.
+
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
