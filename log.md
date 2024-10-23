@@ -739,11 +739,14 @@ re: 3 days' worth of post but lots done
 me: WoW! That's a lot of stuff done. Are you doing this full time?
 
 ### Day 025/100: 22-10-2024
+**Update*
+Project completed before posting progress
+
 **Today's Progress**: 
 Almost completed a module of the Codecademy PHP introductory course. Working on a build an adventure game guided project to consolidate conditionals.
 
 
-**Thoughts:** 
+**Thoughts:** 	 
 Frankly, I'm finding it pretty tedious.
 
 
@@ -763,6 +766,33 @@ me: WooHoo!
 re: Starting again Day 1
 me: Good luck! Hope you get to finish it this time.
 
+
+### Day 026/100: 23-10-24
+**Today's Progress**: 
+Completed C# lessons: Methods and Introduction to Classes
+Finished PHP end of lesson project
+
+
+**Thoughts:** 
+Feels like I'm making progress at last
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+More of the same. On target for significant progress by the end of the week.
+
+
+**Pay Forward:**
+1.  @ Imola on fCC's Discord
+re: Was able to make sense of something that was baffling [her] yesterday
+me:  Often happens that way. The best way to solve a problem is sometimes to walk away and come back to it another time.
+
+2. @ LittleInkSmith on fCC's Discord
+re: [JS] tests mis-behaving and laughing at her
+me: Oh yes! They love it when they think they're cleverer than us mere humans. 
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
@@ -789,4 +819,3 @@ me:
 2. @ ... on ...
 re:
 me:
-
