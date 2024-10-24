@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 001/100: Seventh Day, 28th of Nineth Month, 2024
+### Day 001/100: Seventh Day, 28th of Ninth Month, 2024
 **Today's Progress**: Work on Codecademy Challenge Project Website Design System
 
 **Thoughts:** From Day One of Round One: 'It feels good to be starting this for real at last.'
@@ -793,6 +793,33 @@ me:  Often happens that way. The best way to solve a problem is sometimes to wal
 2. @ LittleInkSmith on fCC's Discord
 re: [JS] tests mis-behaving and laughing at her
 me: Oh yes! They love it when they think they're cleverer than us mere humans. 
+
+### Day 027/100: 24-10-2024
+**Today's Progress**: 
+Made some progress with the [Codecademy] C# course on my Traineeship
+
+
+**Thoughts:** 
+Also sorted something significant in 'life'.
+A word to the wise for the neuro-divergent: 'If you have something to do today, do it NOW!' [From the book 'Dirty Laundry:...' by Richard Pink & Roxanne Pink]
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Keep on keeping on
+
+
+**Pay Forward:**
+1.  @ GitnlT47 on fCC's Discord
+re: Day One
+me: Well done for taking the first step on the journey. Good luck and Happy Coding!
+
+2. @ Santiago Tomas on fCC's Discord
+re: 8 hours plus
+me: 8 hours plus at the keyboard? Impressive! Do you have a day-job as well?
+
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
