@@ -803,6 +803,8 @@ Made some progress with the [Codecademy] C# course on my Traineeship
 Also sorted something significant in 'life'.
 A word to the wise for the neuro-divergent: 'If you have something to do today, do it NOW!' [From the book 'Dirty Laundry:...' by Richard Pink & Roxanne Pink]
 
+**Update**
+I think this course if finally helping me to get the hang of 'encapsulation'.
 
 **Link to Work:**
 n/a
@@ -820,6 +822,36 @@ me: Well done for taking the first step on the journey. Good luck and Happy Codi
 re: 8 hours plus
 me: 8 hours plus at the keyboard? Impressive! Do you have a day-job as well?
 
+
+### Day 028/100: 25-10-2024
+**Today's Progress**: 
+More study with Codecademy. A little bit further with both Java and C#.
+
+
+**Thoughts:** 
+I've been listening to the audio book version of The 7 Habits of Highly Effective People by Stephen R. Covey. [Hereinafter '7H' & 'SRC'.]  I first studied it some years ago. It was my intention to use the first half of this 100 Days to Refresh my understanding of the book. I thought I could do that just by focusing on one of the habits each week but it didn't happen. I came across the audio book a week ago. In the chapter on Habit 2, Begin with the End in Mind, SRC has a section on Persoanal Misson Statements. I remember it well, it made a big impression the first time I read it. One thing in particular jumped out at me from one of the examples SRC gives: 'Plan tomorrow's work today'.
+
+So here's my list of tomorrow's [100 Days related] work:
+1. pay forward to at least two learners
+2. complete 1 hour's concentrated study in Codecademy's Introduction to Java
+3. complete 1 hour's concentrated study in Codecademy's Introduction to C#
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+See 'Thoughts' above...
+
+
+**Pay Forward:**
+1.  @ maysuki  on fCC's Discord
+re: [See below, inter alia]
+me: ' ... • Planned a schedule for the days ahead ...' So *that's* where I've been going wrong hahaha! Serisouly though (just for a moment) ... Well done for committing to the Challenge, and good luck!
+
+2. @ Pole on fCC's  Discord
+re: Finished CSS course.
+me: Doesn't it feel *so* good to *finish* something? *Well done*!
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
