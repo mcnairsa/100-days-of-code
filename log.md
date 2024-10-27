@@ -879,6 +879,33 @@ me:  Having a bad day? Don't let it get to you. Trying your best is all you need
 re: Wrote a color (sic) quiz on Day One
 me: Impressive! If that's Day One, can't wait to see where you're at on Day 100
 
+### Day 029/100: 27-10-2024
+**Today's Progress**: 
+Revised Cc lesson on GitHub collaboration
+
+
+**Thoughts:**
+I'm looking at setting up a repo to collaborate with fellow students on an index of projects across multiple Codecademy courses and paths. Not sure if this has legs at this time but thinking about it is a useful exercise.
+Still sort of hazy about this. Will have to practice on it to get my head round it.
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Hmmm
+
+
+**Pay Forward:**
+1.  @ ... on fCC's Discord
+re: Starting 6-month drive to get an internship
+me: Best of luck. Look forward to seeing your progress.
+
+2. @ Nekit on fCC's Discord
+re: Working on MERN app, working with Tailwnd
+me: Sounds like significant progress. What's it like working with Tailwind?
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
