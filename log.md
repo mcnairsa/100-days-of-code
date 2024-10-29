@@ -906,6 +906,33 @@ re: Working on MERN app, working with Tailwnd
 me: Sounds like significant progress. What's it like working with Tailwind?
 
 
+### Day 030/100: 28-10-2024
+**Today's Progress**: 
+Revised Advanced JSX lesson on Codecademy's Full-Stack Engineer career path
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+I'm getting more organised, little by little, step by step.
+Aim atm is to be just a little more organised and to take one more step in the right direction each day.
+
+
+**Pay Forward:**
+1.  @ Jill on fCC's Discord
+re: Day 7 and starting again with Odin Prj.
+me: I'm curious, what's 'A/a Open'. I looked at  the Odin Project a while ago. Looks hardcore to me. Someone I know tried it and fell at the first hurdle with setting up WSL on a Windows pc. Good luck with your 100 Days.
+
+2. @ Dizah Saragih on fCC's Discord
+re: Day 1 [Sounds like she has previous experience. Starting with algorithm stuff.]
+me: Great job starting on the challenge. The only way is up!
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
