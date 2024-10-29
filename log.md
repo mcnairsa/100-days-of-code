@@ -912,7 +912,7 @@ Revised Advanced JSX lesson on Codecademy's Full-Stack Engineer career path
 
 
 **Thoughts:** 
-[Observation on how it felt ... ]
+Nothing to add
 
 
 **Link to Work:**
@@ -932,6 +932,32 @@ me: I'm curious, what's 'A/a Open'. I looked at  the Odin Project a while ago. L
 2. @ Dizah Saragih on fCC's Discord
 re: Day 1 [Sounds like she has previous experience. Starting with algorithm stuff.]
 me: Great job starting on the challenge. The only way is up!
+
+### Day 031/100: 29-10-2024
+**Today's Progress**: 
+More revision of CSS Grid
+
+
+**Thoughts:** 
+Had a late night last night which set me up poorly for today
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+...
+
+
+**Pay Forward:**
+1.  @ Santiago Tomas on fCC's Discord
+re: Got Responsive Web Certification
+me: Nice! I bet it feels good to have completed and got the certification. 
+
+2. @LaurenStark on fCC's Discord
+re: forgetting to link to CSS in HTML
+me: hahaha! *SO* easily done!
+
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
