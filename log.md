@@ -959,6 +959,31 @@ re: forgetting to link to CSS in HTML
 me: hahaha! *SO* easily done!
 
 
+### Day 032/100: 30-10-2024
+**Today's Progress**: 
+Minimal amount of Codecademy CSS Grid lesson
+Yesterday after posting progress I made myself a list of example websites to review in preparation for making my own. (Codecademy project but also for my own purposes.)
+
+**Thoughts:** 
+Busy day so only got to sit in from of my screen after supper... :-(
+
+
+**Link to Work:**
+
+
+**Intention and expectation for tomorrow:**
+...
+
+
+**Pay Forward:**
+1.  @iAmJess8  on fCC's Discord
+re: starting again
+me: Well done for not giving up!
+
+2. @ Jey-Pey on fCC's Discord
+re: Day 1
+me: Good job committing to the challenge. Good luck with it!
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
