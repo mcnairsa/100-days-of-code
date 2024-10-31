@@ -969,7 +969,7 @@ Busy day so only got to sit in from of my screen after supper... :-(
 
 
 **Link to Work:**
-
+n/a
 
 **Intention and expectation for tomorrow:**
 ...
@@ -983,6 +983,33 @@ me: Well done for not giving up!
 2. @ Jey-Pey on fCC's Discord
 re: Day 1
 me: Good job committing to the challenge. Good luck with it!
+
+### Day 033/100: 31-10-2024
+**Today's Progress**: 
+Completed ... tracking down tutorials and code examples pertinent to my Cc Portfolio and Design System Challenge Projects
+
+
+**Thoughts:** 
+Last two days my 100-days-ish time has been mostly about converting a pile or tab groups to bookmarks and tracking down stuff that I want to reference or take inspiration from. This has been frustrating but it will pay out in the long run. The last piece of my present/most recent empuzzlement was a Stack Exchange piece about the CSS colour (sic) equivalents to the green and amber on black monitors we used back in the day.
+
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+It'd be nice to get back to some project programming
+
+
+**Pay Forward:**
+1.  @ ampire9258 on fCC's Discord
+re: 'I read some pieces of code.'
+me: Better to do something than nothing. What programming language are you working in?
+
+2. @  on  fCC's Discord
+re: Started RPS
+me: Ah, that one! Have you come across Rock, Paper, Scissors, Lizard, Spock?
+
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
