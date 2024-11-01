@@ -990,7 +990,7 @@ Completed ... tracking down tutorials and code examples pertinent to my Cc Portf
 
 
 **Thoughts:** 
-Last two days my 100-days-ish time has been mostly about converting a pile or tab groups to bookmarks and tracking down stuff that I want to reference or take inspiration from. This has been frustrating but it will pay out in the long run. The last piece of my present/most recent empuzzlement was a Stack Exchange piece about the CSS colour (sic) equivalents to the green and amber on black monitors we used back in the day.
+Last two days my 100-days-ish time has been mostly about converting a pile of tab groups to bookmarks and tracking down stuff that I want to reference or take inspiration from. This has been frustrating but it will pay out in the long run. The last piece of my present/most recent empuzzlement was a Stack Exchange piece about the CSS colour (sic) equivalents to the green and amber on black monitors we used back in the day.
 
 
 
@@ -1010,6 +1010,34 @@ me: Better to do something than nothing. What programming language are you worki
 re: Started RPS
 me: Ah, that one! Have you come across Rock, Paper, Scissors, Lizard, Spock?
 
+
+### Day 034/100: 01-11-2024
+**Today's Progress**: 
+Day off
+We had a flat-pack pantry cupboard to put together so nothing of significance happened on the code front.
+
+
+**Thoughts:** 
+Sometimes that's just how it goes. Ho hum!
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Review the week and make a better plan for next (i.e. better than no plan at all)
+
+
+**Pay Forward:**
+1.  @the_aqp on fCC Discord
+re: Day 1 (Ruby on rails) 
+me: Well done for committing to the challenge. Good luck with it!
+
+2. @LaurenStark on fCC Discord
+re: Leaving completion till later, see below
+me: '... decided not to fiddle with it now, but first just do the website and fix every detail in the end...'
+Good plan!!!
+Always best not to get bogged down in something. It'll probably be easier to make sense of it when you come back to it.
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
