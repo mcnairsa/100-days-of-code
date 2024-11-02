@@ -1039,6 +1039,42 @@ me: '... decided not to fiddle with it now, but first just do the website and fi
 Good plan!!!
 Always best not to get bogged down in something. It'll probably be easier to make sense of it when you come back to it.
 
+
+
+### Day 035/100: 02-11-2024
+**Today's Progress**: 
+Started my portfolio site under the guise of a Codecademy project.
+
+
+**Thoughts:** 
+Fells good to have made a start, albeit a modest one, on something I regard as actual work.
+
+
+**Link to Work:**
+Nothing worth linking to as yet but I hope to have more to offer tomorrow.
+
+**Intention and expectation for tomorrow:**
+I plan to progress the protfolio site. This will also tick one or two other boxes in the Codecademy Full-Stack Engineer Career Path programme.
+
+
+**Pay Forward:**
+1.  @ Lemmy on fCC Discord
+re: Coming back after a break
+me: Well done for coming back to it.
+
+2. @ iAmJess8 on fCC Discord
+re: Working on REST api for blog
+me: That sounds ambitious. Good luck with it.
+
+
+**Notes**
+In response to:
+ddg: emacs file remove '#l#'
+I found:
+https://stackoverflow.com/questions/12031830/what-are-file-and-file-and-how-can-i-get-rid-of-them
+Thanks guys:-)
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
