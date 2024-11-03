@@ -1075,6 +1075,31 @@ https://stackoverflow.com/questions/12031830/what-are-file-and-file-and-how-can-
 Thanks guys:-)
 
 
+### Day 037/100: dd-mm-yyyy
+**Today's Progress**: 
+Day off
+
+
+**Thoughts:** 
+n/a
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+n/a
+
+
+**Pay Forward:**
+1.  @ EJ. P  on fCC Discord
+re: Under-estimated how packed [her] Saturdays are -> 'today's goals are tomorrow's goals'.
+me: So easily done! So much code to write, so little time.
+
+2. @ LaurenStark on fCC Discord
+re: 9 hours, lost work 3x due to browser issues, time out for laundry and video games
+me: Sounds a good day's work. You deserve a break. Enjoy the laundry :-)
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
