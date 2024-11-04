@@ -1075,7 +1075,9 @@ https://stackoverflow.com/questions/12031830/what-are-file-and-file-and-how-can-
 Thanks guys:-)
 
 
-### Day 037/100: dd-mm-yyyy
+### Day 037/100: 03/11/2024
+
+
 **Today's Progress**: 
 Day off
 
@@ -1100,6 +1102,58 @@ me: So easily done! So much code to write, so little time.
 re: 9 hours, lost work 3x due to browser issues, time out for laundry and video games
 me: Sounds a good day's work. You deserve a break. Enjoy the laundry :-)
 
+### Day 038/100: 04/11/2024
+**Today's Progress**: 
+1. Did some practice on Codecademy on Fundamentals of HTML and Fundamentals of CSS.
+2. Gathered together a bunch of sites I like into a set of bookmarks. These form the culmination of my researches looking for a minimalist style for my profile site.
+
+**Thoughts:** 
+1. It seems no matter how many times I go over it I can't make the CSS positioning properties stick.
+2. Time to invest some time in learning skills me thinks.
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Work on example web pages to come up with a minimalist style for my profile site
+
+
+**Pay Forward:**
+1.  @ Martease on Cc Circle
+re: I’m trying to figure out the best way to kick off my freelancing journey. What steps should I take? Who should I connect with or learn from? Also, what do you think of “Blue Collar Dev” as a name for my development company?
+me:
+Hi Martease
+Good to hear from you
+A few thoughts in response to your post...
+
+**Me**
+My background is a mix of white collar and blue collar. I worked most recently on the shop floor in an office furniture factory. Previously I worked as: bus driver, warden of a Quaker  meetinghouse, ESOL teacher and all sorts of agency jobs. I'm not myself drawn to freelance or start-up so maybe this is an objective viewpoint or maybe it's well wide of the mark. I also worked for 10 years as a computer programmer. (Ref: my Codecademy & GitHub profile biogs)
+
+**Refactor life one section at a time**
+It sounds like you want to make some big changes. Are you looking for a clean break from everything that's gone before? If not then maybe take things one step at a time. Would you consider getting a 9 to 5 in IT to build up your skills? Could you get web/computer-related work with your current employer if you're still in work? Where I last worked we were always waiting on one or other of two people to be available to get any changes made to our IT systems. If your place is the same then maybe you can offer to ease the pressure. If you have spare time outside work offer to use that time. It'll help your cv/resume. Don't let them take the Mick though. Your time and sanity is worth more to you than the experience. If you're not in work then try reaching out to contacts you may have through your previous job(s).
+
+**Build on existing strengths**
+The big thing in IT is 'skill-set' and a skill-set includes domain/industry specific knowledge. A 'useful engine' is someone who has  knowledge of an industry (in IT terms 'industry' includes things like banking, insurance, hospitality, retail). Look to capitalise on your non-IT skills as well as any IT-specific skills you gain.
+
+**Depth 1st, then breadth**
+You're starting with front-end. When you get the back-end knowledge as well see what you're drawn to. Whichever direction you find yourself going try to get as much understanding of what lies behind any tools & frameworks that you use (e.g. Bootstrap, jQuery, React &c). Something like Bootstrap may mean you can style pages faster but the more secure your knowledge of the basics of CSS the better you will use the tool. Freelance or being the boss means being a generalist but knowing a bit of lots won't help you or your clients. And if you end up with a team of people working for you and you don't understand what they're doing then things may not end well.
+  
+**Want to be an employer? Be Kind!**
+Choose good people to work with and treat them well. It won't always work out the way you hope. The more you effort you put into the people side of your business the more likely you are to succeed. If in the end it doesn't work for you, be content with working for yourself.
+
+**... and finally**
+Invest in yourself as a whole not just your IT skills. Consider something like Stephen Covey's '7 Habits of Highly Effective People'
+
+btw: 'Blue Collar Dev' sounds great if it works for you.
+
+2. @ Emile on ...
+re: [Which point in the (Google/Android Developer programme) they are up to]
+me: Over 3/4 of the way to 100 Days... Well done keep it up!. Are you enjoying Android development?
+
+Notes 4 Leitner:
+CSS Position esp 'Relative' & 'Absolute'
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
@@ -1117,7 +1171,7 @@ me: Sounds a good day's work. You deserve a break. Enjoy the laundry :-)
 [Proposal/Plan for the next day]
 
 
-**Pay Forward:**
+**pay Forward:**
 1.  @ ... on ...
 re:
 me:
