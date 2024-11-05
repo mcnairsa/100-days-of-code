@@ -483,7 +483,7 @@ Before I do anything else I am going to play the day. I shall plan what I intend
 re: Day 2 and how to remember stuff.
 Me: Well done for embarking on the challenge @Ajay Yadav I really hope it helps take your coding forward.
 
-As for helping to maie things stick. If you have the time - ore are willing to make time - investigate ‘spaced repetition’ and the Leitner box system. To make the most of your Codecademy time try going over the quizzes in the lessons. Most lessons will offer you a structured practice session. I find the quizzes work well in identifying what it is I haven’t understood.
+As for helping to make things stick. If you have the time - or are willing to make time - investigate ‘spaced repetition’ and the Leitner box system. To make the most of your Codecademy time try going over the quizzes in the lessons. Most lessons will offer you a structured practice session. I find the quizzes work well in identifying what it is I haven’t understood.
 
 For example, I have sturggled with the CSS position property values and particularly ‘relative’ and ‘absolute’. Mainly because it seems to me they are both relative to something and I could never remember which was which. I did the quiz again (I finished that module ages ago) and now I’ve finally got it ‘fixed’ (pun semi-intentional) in my head.
 
@@ -1147,12 +1147,66 @@ Invest in yourself as a whole not just your IT skills. Consider something like S
 
 btw: 'Blue Collar Dev' sounds great if it works for you.
 
-2. @ Emile on ...
+2. @ Emile on fCC Discord
 re: [Which point in the (Google/Android Developer programme) they are up to]
 me: Over 3/4 of the way to 100 Days... Well done keep it up!. Are you enjoying Android development?
 
-Notes 4 Leitner:
+**Notes 4 Leitner:**
 CSS Position esp 'Relative' & 'Absolute'
+Note: the first time I did this (yesterday, being 04-11-2024) I used relative. I got it positioned
+body {
+  background-color: #FFF;
+  margin: 0 auto;
+}
+
+.container {
+  background-color: #91f2d2;
+  height: 200px;
+  width: 300px;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+}
+
+.black-box {
+  position: absolute;
+  top: 150px;
+  background-color: black;
+}
+
+.blue-box {
+  position: absolute;
+  left: 250px;
+  background-color: #2d5dcc;
+}
+
+### Day 039/100: 05-11-2024
+**Today's Progress**: 
+Much practice on Codecademy practice sessions. Mainly CSS.
+
+
+**Thoughts:** 
+I find the CSS position property confusing as. 'relative' and 'absolute' trip me up everytime a coconut. I may have got it now. 'relative' is 'relative' to its natural position if there were no exlpicit positioning. 'absolute' is [relative] to its nearest positioned ancestor' or something like that. Problem was that the elements in question have no positioned ancestor. I which case I guess they are positioned relative (but it's called ablsolute) to the root element or the page itself. Something like that.
+
+
+**Link to Work:**
+n/a [yet but I'll be up for a while longer so that may change
+
+**Intention and expectation for tomorrow:**
+Try to have a constructive and well thought out day
+
+
+**pay Forward:**
+1. @mitsui  on fCC Discord
+re: see below
+me: Recursion on Day One! WoW! Where will you be in 99 days' time!!!
+
+2. @paclarap  on fCC Discord
+re: multiple platforms, multiple challenges
+me: Woah there! 'hardcore' indeed! Do you ever give yourself a break!
+
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
