@@ -1188,15 +1188,23 @@ Much practice on Codecademy practice sessions. Mainly CSS.
 
 
 **Thoughts:** 
-I find the CSS position property confusing as. 'relative' and 'absolute' trip me up everytime a coconut. I may have got it now. 'relative' is 'relative' to its natural position if there were no exlpicit positioning. 'absolute' is [relative] to its nearest positioned ancestor' or something like that. Problem was that the elements in question have no positioned ancestor. I which case I guess they are positioned relative (but it's called ablsolute) to the root element or the page itself. Something like that.
+I find the CSS position property confusing as. 'relative' and 'absolute' trip me up everytime a coconut. I may have got it now. 'relative' is 'relative' to its natural position if there were no explicit positioning. 'absolute' is [relative] to its nearest positioned ancestor' or something like that. Problem was that the elements in question have no positioned ancestor. I which case I guess they are positioned relative (but it's called absolute) to the root element or the page itself. Something like that.
 
 
 **Link to Work:**
-n/a [yet but I'll be up for a while longer so that may change
+n/a [yet but I'll be up for a while longer so that may change]
 
 **Intention and expectation for tomorrow:**
 Try to have a constructive and well thought out day
+[Edit: ... - 25:08hrs]
+(Something I thought of earlier, might have done but spent time on the 'Advanced Grid' lesson instead)
+Use a(n HTML) table to show the research sites
+Add a Comment column or Pro/Con columns
+In the footer state what's being taken from each to make up the final style/layout
+[Remember to simplicate and add as much lightness as possible.]
 
+Notes: CSS Grid - is there a 'justify-existence' property?
+Perhaps justify-self comes close?
 
 **pay Forward:**
 1. @mitsui  on fCC Discord
@@ -1207,6 +1215,35 @@ me: Recursion on Day One! WoW! Where will you be in 99 days' time!!!
 re: multiple platforms, multiple challenges
 me: Woah there! 'hardcore' indeed! Do you ever give yourself a break!
 
+
+
+### Day 039/100: 06-11-2024
+**Today's Progress**: 
+Completed Codecademy lesson F-SE Career Path (Part 1) Web Develeopment Foundations -> Making a Website Responsive -> CSS: [Advanced] Grid -> Task Board guided project.
+
+
+**Thoughts:** 
+Finally, something that feels just a tad like coding.
+
+
+**Link to Work:**
+Still no link as this was a learning platform based exercise...
+      ... but watch this space.
+
+**Intention and expectation for tomorrow:**
+1. Connect with the community (approx 1/2 hour) - identify possible Pay Forwards
+2. Practice session on Responsive CSS - (up to 1 hour) - identify the skill gaps
+3. Formulate a co-ordinated plan for the 4 projects remaining to complete Codecademy F-SE Path Parts 1 & 2
+
+
+**Pay Forward:**
+1.  @ Lalalloud on fCC Discord
+re: Day One
+me: Welcome to the challenge. The journey of one hundred days starts with the first hour. Good luck and happy coding:-)
+
+2. @ Darth Vader on fCC Discord
+re: see below
+me: That sounds like a lot. Well done!
 
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
