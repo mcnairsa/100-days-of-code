@@ -1245,6 +1245,34 @@ me: Welcome to the challenge. The journey of one hundred days starts with the fi
 re: see below
 me: That sounds like a lot. Well done!
 
+
+### Day 040/100: 07-11-2024
+**Today's Progress**: 
+Spent time on practice sessions for CSS Flexbox and Grid. Stuff is slowly sinking in.
+One consequence of having been through Full-Stack several times is that I have several repos with different versions of, e.g. the Codecademy Build-a-Website-Design-System. I've spent time today making sense as best I can and rationalising my repos. Not the best use of time but hey ho!
+
+
+**Thoughts:** 
+Looking forward to getting some coherence into the current mess of notes, repos, stuff, blah blah blah
+
+
+**Link to Work:**
+n/a
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+
+**Pay Forward:**
+1.  @Bob on fCC Discord
+re: 'Tomorrow I will go back to a previous project and refactor it to use classes instead of plain constructors.'
+me: The refactoring sounds like a useful learning exercise. Good luck with it.
+
+2. @JeyPey  on fCC Discord
+re: '... was really tired before bed and forgot'
+me: ... Now that how familiar does that sound!
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
@@ -1262,7 +1290,7 @@ me: That sounds like a lot. Well done!
 [Proposal/Plan for the next day]
 
 
-**pay Forward:**
+**Pay Forward:**
 1.  @ ... on ...
 re:
 me:
