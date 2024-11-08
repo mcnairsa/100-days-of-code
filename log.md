@@ -1273,6 +1273,37 @@ me: The refactoring sounds like a useful learning exercise. Good luck with it.
 re: '... was really tired before bed and forgot'
 me: ... Now that how familiar does that sound!
 
+
+### Day 041/100: 08-11-2024
+**Today's Progress**: 
+Did several rounds of practice sessions on CSS in Codecademy.
+Worked on a personal cheat sheet for git and GitHub
+
+
+**Thoughts:** 
+The Codecademy cheat sheets are useful but there's stuff I've had to do that isn't included.
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+1. Complete git cheat sheet
+2. Wireframe [Codecademy] Full-Stack Part 1 (of 6) projects
+3. Plan for [Codecademy] Full-Stack Part 2 projects
+
+
+**Pay Forward:**
+1.  @nekit on fCC Discord
+re: Chess game almost done.
+me: That's impressive! Is this an actual game that you can play? Btw: 'kill' reminds me of a computer chess program called Battle Chess. I think it may still be around. It was as much fun to watch as it was to play.
+
+2. @Kumar Nirupam on fCC Discord
+re: Day 2, see below
+me: Good place to start is git. What is your open source contribution?
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
@@ -1297,4 +1328,4 @@ me:
 
 2. @ ... on ...
 re:
-me:
+me: 
