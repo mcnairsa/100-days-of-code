@@ -1304,6 +1304,34 @@ re: Day 2, see below
 me: Good place to start is git. What is your open source contribution?
 
 
+### Day 042/100: 09-11-2024
+**Today's Progress**: 
+Revised Codecademy Redux lesson
+Spaced repetition practice of CSS fundamentals and responsivity
+
+
+**Thoughts:**
+Time for bed. I was up before five this morning and it's gone half past nine (evening) now.	
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+As for yesterday ... again
+
+
+**Pay Forward:**
+1.  @Lalalloud on fCC Disdord
+re: '30 minutes JaavaScript practice'
+me: Well done for keeping it up! What aspect of JS did you practice?
+
+2. @VK on fCC Discord
+re: Day One
+me: Well done for taking up the challenge! Sockets on Day 1 sounds pretty hardcore. Have  you done a lot of coding before?
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
