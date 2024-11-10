@@ -1332,6 +1332,33 @@ re: Day One
 me: Well done for taking up the challenge! Sockets on Day 1 sounds pretty hardcore. Have  you done a lot of coding before?
 
 
+### Day 043/100: 10-11-2024
+**Today's Progress:**
+More practice sessions on Codecademy
+
+
+**Thoughts:** 
+I could really do with getting into a senible sleep pattern
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Yesterday's plan is again tomorrow's plan... Ho hum!
+
+
+**Pay Forward:**
+1.  @iAmJess8 on fCC Discord
+re: 'On a trip so ...'
+me: Well done! Good to keep your hand in when away from home.
+
+2. @dvlpr on fCC discord
+re: Completed the Flexbox
+me: Cute kitties. well done mastering Flexbox. It fries my noodle.
+
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
