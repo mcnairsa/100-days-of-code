@@ -1338,7 +1338,7 @@ More practice sessions on Codecademy
 
 
 **Thoughts:** 
-I could really do with getting into a senible sleep pattern
+I could really do with getting into a sensible sleep pattern
 
 
 **Link to Work:**
@@ -1357,6 +1357,32 @@ me: Well done! Good to keep your hand in when away from home.
 re: Completed the Flexbox
 me: Cute kitties. well done mastering Flexbox. It fries my noodle.
 
+
+### Day 044(I think)/100: 11-11-2024
+**Today's Progress**: 
+Organising a schedule for completion of my traineeship
+
+
+**Thoughts:** 
+Thinking about how much I have to cover for this traineeship and it's scary. I have Full-Stack, Bootstrap (CSS) jQuery plus the intro courses for pythin, PHP, C#, and Java. More significant though, is the realisation that some sort of project that encompasses as much as possible of the material is going to really help with consolidating the learning or 'metabolising' as my son (also in IT/tech) puts it. I will be tested on all of the stuff mentioned. Problems is though that the other languages are scarcely above the Hello World level compared to Full-Stack. Not enough even had I the time and inclination to make a significant project. And I **definitely** don't have the time to take any of them to a higher level. Hmmm......
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+Complete my learning plan for the second 1/2 of the 100 Days.
+
+
+**Pay Forward:**
+1.  @DSchrute on fCC Discord
+re: ... having trouble understanding instructions in the CSS lesson
+me: Can we help with that? Feel free to DM me
+[And got told off by a Mod 'We normally encourage learning in public here'.
+2. @Psychosemanticz88 on Cc Circle...
+re: Finished cli course (on Cc). S.o. suggested git/GH as next course.
+me: Bash scripting might be another one to go for
 
 
 ### Day 000/100: dd-mm-yyyy
