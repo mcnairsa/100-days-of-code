@@ -1364,7 +1364,7 @@ Organising a schedule for completion of my traineeship
 
 
 **Thoughts:** 
-Thinking about how much I have to cover for this traineeship and it's scary. I have Full-Stack, Bootstrap (CSS) jQuery plus the intro courses for pythin, PHP, C#, and Java. More significant though, is the realisation that some sort of project that encompasses as much as possible of the material is going to really help with consolidating the learning or 'metabolising' as my son (also in IT/tech) puts it. I will be tested on all of the stuff mentioned. Problems is though that the other languages are scarcely above the Hello World level compared to Full-Stack. Not enough even had I the time and inclination to make a significant project. And I **definitely** don't have the time to take any of them to a higher level. Hmmm......
+Thinking about how much I have to cover for this traineeship and it's scary. I have Full-Stack, Bootstrap (CSS) jQuery plus the intro courses for Python, PHP, C#, and Java. More significant though, is the realisation that some sort of project that encompasses as much as possible of the material is going to really help with consolidating the learning or 'metabolising' as my son (also in IT/tech) puts it. I will be tested on all of the stuff mentioned. Problems is though that the other languages are scarcely above the Hello World level compared to Full-Stack. Not enough even had I the time and inclination to make a significant project. And I **definitely** don't have the time to take any of them to a higher level. Hmmm......
 
 
 **Link to Work:**
@@ -1385,10 +1385,46 @@ re: Finished cli course (on Cc). S.o. suggested git/GH as next course.
 me: Bash scripting might be another one to go for
 
 
+### Day 046(I think)/100: 12-11-2024
+**Today's Progress**: 
+Worked on git branching to make sense of multiple attempts at a Codecademy challenge project
+Note: the git branch/merge part was way more challenging than the challenge project
+Got a clearer idea of what I feel is right for a README for this level of project.
+
+
+**Thoughts:** 
+This is again taking time that I could use on things that on the face of it are way more important. Howerver, I know it will pay in the end.
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Complete the Cheat Sheet project
+I have yet to get the branching sorted so I can wrap this up
+What I need to do...
+git init &c to get the (empty) repo set up
+create mulitple branches
+somehow connect the 'other' ie not 'main' branches to the other repos
+Note:
+There's a SE question/answer on how to see the html as a webpage here:
+https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview
+
+
+**Pay Forward:**
+1.  @CapsLockHero  on Cc Circle
+re: low-code & Java
+me: thanks for the mentions (low-code deve & -> 'shadow IT')
+
+2. @Ella on fCC Discord
+re: Finished Role Playing Game (fCC curriculum?)
+me:  Well Done! Sounds like it's felt like an uphill battle. As for 'peeking forward' that sounds familiar too. I find finishing something can leave me torn between taking a well-earned break and wanting to be working on the next thing.
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
-
+nTs: tidy up yesterday's log to remove the notes that aren't part of the log proper
 
 **Thoughts:** 
 [Observation on how it felt ... ]
@@ -1409,4 +1445,51 @@ me:
 
 2. @ ... on ...
 re:
-me: 
+me:
+
+Timing Notes
+07:14 - 70:21 F-SE general
+Types of authentication???
+07:22 - 07:27
+Tool tips
+07:28 - 07:42 Making a website responsive
+@media queries
+background-size
+border-? [to set border width]
+em - relative sizing?
+chaining CSS and specicivity
+
+Programme for Traineeship Completion by 11-01-2025
+Study Plans
+F-SE	  ???
+C#	  2 days per week, 1 hour 30 minutes per day
+Java	  2 days per week, 1 hour 15 minutes per day
+Python	  3 days per week, 1 hour per day
+jQuery	  1 day per week, 30 minutes per day
+PHP	  2 days per week, 1 hour per day
+Bootstrap 1 day per weekm 30 minutes per day
+
+Concepts that need extra proactice
+F-SE
+C#
+Java
+Python
+jQuery
+PHP
+Bootstrap
+
+Current bottle-neck/stumbling-block/whatever-you-want-to-call-it
+F-SE
+Projects in general but specifically...
+Cheat Sheet & WDS
+then,
+Company Home Page
+(Responsive) Club Website
+
+Scratch notes:
+things to contribute to on Cc docs
+
+Note: see the bottom of the 40Phaser README to see how to contribute
+(https://github.com/Codecademy/40Phaser)
+https://github.com/Codecademy/stuff.js
+	typo 'it's (sic) parents'
