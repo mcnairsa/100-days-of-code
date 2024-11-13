@@ -1421,6 +1421,39 @@ re: Finished Role Playing Game (fCC curriculum?)
 me:  Well Done! Sounds like it's felt like an uphill battle. As for 'peeking forward' that sounds familiar too. I find finishing something can leave me torn between taking a well-earned break and wanting to be working on the next thing.
 
 
+### Day 045/100: 13-11-2024
+**Today's Progress**: 
+Day out today so didn't get to do my habitual morning session.
+Revisiting GitHub cli, mainly for creating a remote repo from my local machine.
+Still baffled by the
+gh repo license
+thing
+
+nTs: tidy up yesterday's (day b4 now) log to remove the notes that aren't part of the log proper
+
+**Thoughts:** 
+Sometimes it's good to have a day off... or two ... or...
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+To get back on track
+
+
+**Pay Forward:**
+1.  @julia on fCC Discord
+re: 'Day 1 ... starting again...'
+me: Hi @julia [<@888822932829261844>] 'restarting'? Are you coming back after a break? Good luck!
+
+2. @Mari B on fCC Discord
+re: Is it OK to miss a few days?
+me: Hi @maribaroni The rules say one day is OK, more is frowned upon. As the I Ching might put it: 'Consistency furthers.' Truth of the matter is 'perseverance furthers' and coming back after a break when circumstances are difficult shows determination. We do what we can. Were we perfected beings we probably wouldn't be here.
+
+
+
 ### Day 000/100: dd-mm-yyyy
 **Today's Progress**: 
 [Completed ... &c
@@ -1469,7 +1502,7 @@ jQuery	  1 day per week, 30 minutes per day
 PHP	  2 days per week, 1 hour per day
 Bootstrap 1 day per weekm 30 minutes per day
 
-Concepts that need extra proactice
+Concepts that need extra practice
 F-SE
 C#
 Java
