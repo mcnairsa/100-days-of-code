@@ -1429,7 +1429,6 @@ Still baffled by the
 gh repo license
 thing
 
-nTs: tidy up yesterday's (day b4 now) log to remove the notes that aren't part of the log proper
 
 **Thoughts:** 
 Sometimes it's good to have a day off... or two ... or...
@@ -1454,10 +1453,40 @@ me: Hi @maribaroni The rules say one day is OK, more is frowned upon. As the I C
 
 
 
-### Day 000/100: dd-mm-yyyy
+### Day 047/100: 14-11-2024
+**Today's Progress**: 
+Made some more progress in understanding how the git cli works.
+
+
+**Thoughts:** 
+I got woken up way too early this morning and have been struggling all day to focus.
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:
+To stay awake *???*
+
+
+
+**Pay Forward:**
+1.  @Jey-Pey  on fCC Discord
+re: Using [JS?] libraries but starting with 'fundamental JS'
+me: Good scheme. I reckon it's always best to start by knowing what goes on under the bonnet ['hood'] even if you use some tool or library to speed things up later
+
+2. @Richard Day on fCC Discord
+re: Day One, wanting to build a blog to document progress
+me: Well done taking the first step which is to commit to *doing something*. Have you considered that you may be trying to run before you've even investigated crawling? Perhaps  you have existing coding experience but it sounds as though you may not. Try this: (1) from the get-go make notes of what you do, that's the text for your blog. Probably easier to do it on the computer but pen and paper would work too. (2) start on the freeCodeCamp Responsive Web Design curriculum. It begisns with html (3) As you go make you notes into (html) web pages, one per topic. (4) When you get to CSS start prettying those pages up. Continue taking notes. Repeat steps 3 & 4 for each new technology you come to on the curriculum.
+Of course if you have existing coding experience it may change the path you take but the approach will be the same.
+
+
+
+### Day 000/100: ...
 **Today's Progress**: 
 [Completed ... &c
-nTs: tidy up yesterday's log to remove the notes that aren't part of the log proper
+nTs: tidy up yesterday's (day b4 now) log to remove the notes that aren't part of the log proper
+
 
 **Thoughts:** 
 [Observation on how it felt ... ]
@@ -1472,16 +1501,17 @@ nTs: tidy up yesterday's log to remove the notes that aren't part of the log pro
 
 
 **Pay Forward:**
-1.  @ ... on ...
-re:
-me:
+1.  @ ... on   
+re: 
+me: 
 
 2. @ ... on ...
-re:
+re: 
 me:
 
+
 Timing Notes
-07:14 - 70:21 F-SE general
+07:14 - 07:21 F-SE general
 Types of authentication???
 07:22 - 07:27
 Tool tips
@@ -1504,6 +1534,8 @@ Bootstrap 1 day per weekm 30 minutes per day
 
 Concepts that need extra practice
 F-SE
+	JS - destructuring
+	https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/
 C#
 Java
 Python
@@ -1526,3 +1558,9 @@ Note: see the bottom of the 40Phaser README to see how to contribute
 (https://github.com/Codecademy/40Phaser)
 https://github.com/Codecademy/stuff.js
 	typo 'it's (sic) parents'
+
+
+Next Steps
+Create a react app based on the Guinea Pigs from Codecademy lesson:
+React Programming Patterns
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-stateless-components-from-stateful-components-4e9c9fb5-0711-4b6d-82b5-1719f044b355/lessons/react-programming-patterns/exercises/react-separate-container-components-from-presentational-components
