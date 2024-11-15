@@ -1482,6 +1482,43 @@ Of course if you have existing coding experience it may change the path you take
 
 
 
+### Day 049/100: 15-11-2024
+**Today's Progress**: 
+Did my daily practice sessions on Codecademy
+Trying to make sense of git branching. I'm probably not going about what I want to achieve in the right way. I think it may be an x, y problem moment.
+
+
+**Thoughts:** 
+Still tired not much motivation or effort:-(
+I'm working on giving up cafinated tea so have been on mostly decaf the last couple of days. I have a feeling that's what's affecting me.
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+
+**Pay Forward:**
+1.  @LaurenStark on fCC Discord
+re: Not happy with mobile view of portfolio
+me: Do you use developer tools in your browser? Firefox, Safari and Chrome all have it. You can get it to mimmick the device size/format.
+Sorry I don't know where you are in your developer journey but how much have you learned about 'responsive design'? Sounds like that's what you're looking for.
+Sometimes it helps to think differently about the page when you approach it from a 'mobile' frame of mind.
+hTh
+
+[et seq., there was another couple of exchanges]
+
+2. @Esther on fCC Discord
+re: Doing battle with back-end stuff ... and won!
+me: Well done!
+What technologies are you using for the back-end?
+
+
+
+
 ### Day 000/100: ...
 **Today's Progress**: 
 [Completed ... &c
