@@ -1490,7 +1490,7 @@ Trying to make sense of git branching. I'm probably not going about what I want 
 
 **Thoughts:** 
 Still tired not much motivation or effort:-(
-I'm working on giving up cafinated tea so have been on mostly decaf the last couple of days. I have a feeling that's what's affecting me.
+I'm working on giving up caffeinated tea so have been on mostly decaf the last couple of days. I have a feeling that's what's affecting me.
 
 
 **Link to Work:**
@@ -1516,6 +1516,39 @@ re: Doing battle with back-end stuff ... and won!
 me: Well done!
 What technologies are you using for the back-end?
 
+
+
+
+### Day 050/100: 16-11-2024
+**Today's Progress**: 
+Revisited Codecademy git branching lesson
+Reading other resources on git/GitHub.
+
+
+
+**Thoughts:** 
+I find the lack of progress frustrating.
+At the same time I find the fact that I'm having to go into things in greater depth than the course suggests is good!
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+1. Work on cleaning up the 100-days repo for practice
+2. Next steps for the cheat sheetl project:
+work out which 'branch' of the cheat sheet project is the 'real one
+add, commit, merge, delete, &c
+
+
+**Pay Forward:**
+1.  @Mari B on fCC Discord   
+re: ' ... almost back on track.'
+me: Well done! You'll get there.. Just keep plugging away at it.
+
+2. @Laurenstark on fCC Discord
+re: Almost there with the profile, just a few devices to go
+me: Well done! You'll get there.. Just keep plugging away at it.
 
 
 
