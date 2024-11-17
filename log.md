@@ -1536,7 +1536,7 @@ n/a
 
 **Intention and expectation for tomorrow:**
 1. Work on cleaning up the 100-days repo for practice
-2. Next steps for the cheat sheetl project:
+2. Next steps for the cheat sheet project:
 work out which 'branch' of the cheat sheet project is the 'real one
 add, commit, merge, delete, &c
 
@@ -1550,6 +1550,33 @@ me: Well done! You'll get there.. Just keep plugging away at it.
 re: Almost there with the profile, just a few devices to go
 me: Well done! You'll get there.. Just keep plugging away at it.
 
+
+
+### Day 051/100: 17-11-2024
+**Today's Progress**: 
+Day off today
+
+
+**Thoughts:** 
+Lokking forward to getting back to things properly tomorrow after taking a break
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+Hmm ...
+
+
+**Pay Forward:**
+1.  @Abdul on fCC Discord
+re: Day One... 'I need someone who can help me through this jorney.'
+me: Hello Abdul and welcome. The community is here to help you. What are you working on? What course are you following?
+
+2. @  fCC Discord
+re: Hoping to consolidate previous...
+me: Hi Sophie. What course or path are you following?
 
 
 ### Day 000/100: ...
