@@ -1579,6 +1579,34 @@ re: Hoping to consolidate previous...
 me: Hi Sophie. What course or path are you following?
 
 
+### Day 052/100: 18-11-2024
+**Today's Progress**: 
+Did my practice drill on Codecademy Full-Stack Engineer path
+Completed' the Codecademy challenge project Build Your Own Cheat Sheet.
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+
+**Link to Work:**
+The project isn't publicly viewable. I could make it thus but frankly it;s not worth it.
+
+
+**Intention and expectation for tomorrow:**
+To set a realistic schedule for finishing all of this stuff
+
+
+**Pay Forward:**
+1.  @emilie on fCC Discord   
+re: Day 90
+me: Nearly at the 100 days. Well done!
+
+2. @Sebastian+W on fCC Discord
+re: Daya 86, 87 ... nearly at the end of cs50
+me: Well done! Nearly there, keep it up!
+
+
 ### Day 000/100: ...
 **Today's Progress**: 
 [Completed ... &c
@@ -1605,7 +1633,6 @@ me:
 2. @ ... on ...
 re: 
 me:
-
 
 Timing Notes
 07:14 - 07:21 F-SE general
