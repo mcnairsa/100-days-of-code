@@ -7,7 +7,7 @@
 
 It feels even better to be starting Round One.
 
-**Link to work:** [(https://github.com/mcnairsa/CD-Design-System/
+**Link to work:** [(https://github.com/mcnairsa/CD-Design-System/]
 
 Notes:
 After spending some time on putting together an index.html from scratch I found that I had already made a previous start on this. Today's effort is saved as ideas.html. It has some useful thoughts on how I hope to approach this project but is over-ambitions.
@@ -1590,7 +1590,7 @@ Completed' the Codecademy challenge project Build Your Own Cheat Sheet.
 
 
 **Link to Work:**
-The project isn't publicly viewable. I could make it thus but frankly it;s not worth it.
+The project isn't publicly viewable. I could make it thus but frankly it's not worth it.
 
 
 **Intention and expectation for tomorrow:**
@@ -1606,6 +1606,32 @@ me: Nearly at the 100 days. Well done!
 re: Daya 86, 87 ... nearly at the end of cs50
 me: Well done! Nearly there, keep it up!
 
+
+### Day 053/100: 19-11-2024
+**Today's Progress**: 
+Did my practice session on Codecademy F-SE path
+Started setting up an old laptop as a cevelopment box. More with a view to documenting the process than for any other reason.
+
+**Thoughts:** 
+I've accepted that I'm suffering from something a touch of 'flu maybe but probably just man-flu
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+Maybe make aplan for making a plan
+
+
+**Pay Forward:**
+1.  @Sebastian_W on fCC Discord   
+re: Going off-platform (cs50)
+me: Way to go! It feels like I only start to learn anything properly when I go off-piste... sorry off-platform! Look forward to hearing how you get on.
+
+2. @ABDUL on fCC Discord
+re: Day 2 (on fCC curriculum
+me: Well done! Keep it up!
 
 ### Day 000/100: ...
 **Today's Progress**: 
