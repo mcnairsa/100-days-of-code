@@ -1610,7 +1610,7 @@ me: Well done! Nearly there, keep it up!
 ### Day 053/100: 19-11-2024
 **Today's Progress**: 
 Did my practice session on Codecademy F-SE path
-Started setting up an old laptop as a cevelopment box. More with a view to documenting the process than for any other reason.
+Started setting up an old laptop as a development box. More with a view to documenting the process than for any other reason.
 
 **Thoughts:** 
 I've accepted that I'm suffering from something a touch of 'flu maybe but probably just man-flu
@@ -1621,7 +1621,7 @@ n/a
 
 
 **Intention and expectation for tomorrow:**
-Maybe make aplan for making a plan
+Maybe make a plan for making a plan?
 
 
 **Pay Forward:**
@@ -1632,6 +1632,40 @@ me: Way to go! It feels like I only start to learn anything properly when I go o
 2. @ABDUL on fCC Discord
 re: Day 2 (on fCC curriculum
 me: Well done! Keep it up!
+
+
+### Day 054/100: 20-11-2024
+**Today's Progress**: 
+Rather a nothing-ey sort of a day.
+Was expecting to get on an online group coding session that either didn't happen or I was in the wrong place or got the times wrong or idk what.
+Went to the cafe to clear my head and plan my up-coming projects but found I'd left my pen at home.
+Ho hum!
+I will be making a plan for tomorrow shortly. Final dog walk of the day and then off to bed with notebook and pen.
+
+
+**Thoughts:** 
+Tired now...
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+tbc
+
+
+**Pay Forward:**
+1.  @LaurenStark on fCC Discord
+re: Finding JS made no sense and taking a step back by googling to find a site in native language.
+me: !!! Hadn't realised you weren't a native English speaker. It's not the easiest language for non-native speakers. 
+Good idea to take a step back and slow down the pace when you find things have stopped making sense.
+Do you like cats? I just found a site called JavaScript for cats. I can't put a link here because the reply will be blocked but you can google it. It starts at a very basic level and doesn't try to teach too much, just enough. In English of course but I hope easy to follow. There's a recommended reading section too. Some may be available in languages other than English. Eloquent JavaScript is widely reckoned to be one of the best. 
+Keep up the good work! 
+
+2. @Maisie & @ on fCC Discord
+re: Day One
+me: Congratulations @ipms  & @_xandroz for taking the first step. Look forward to seeing your progress on here.
 
 ### Day 000/100: ...
 **Today's Progress**: 
@@ -1652,13 +1686,12 @@ nTs: tidy up yesterday's (day b4 now) log to remove the notes that aren't part o
 
 
 **Pay Forward:**
-1.  @ ... on   
-re: 
-me: 
-
-2. @ ... on ...
+1.  @ ... on ...
 re: 
 me:
+2. @ ... on ...
+re: 
+me: 
 
 Timing Notes
 07:14 - 07:21 F-SE general
@@ -1714,3 +1747,4 @@ Next Steps
 Create a react app based on the Guinea Pigs from Codecademy lesson:
 React Programming Patterns
 https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-stateless-components-from-stateful-components-4e9c9fb5-0711-4b6d-82b5-1719f044b355/lessons/react-programming-patterns/exercises/react-separate-container-components-from-presentational-components
+
