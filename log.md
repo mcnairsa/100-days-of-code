@@ -1663,9 +1663,37 @@ Good idea to take a step back and slow down the pace when you find things have s
 Do you like cats? I just found a site called JavaScript for cats. I can't put a link here because the reply will be blocked but you can google it. It starts at a very basic level and doesn't try to teach too much, just enough. In English of course but I hope easy to follow. There's a recommended reading section too. Some may be available in languages other than English. Eloquent JavaScript is widely reckoned to be one of the best. 
 Keep up the good work! 
 
-2. @Maisie & @ on fCC Discord
+2. @Maisie & @Xandroz on fCC Discord
 re: Day One
 me: Congratulations @ipms  & @_xandroz for taking the first step. Look forward to seeing your progress on here.
+
+
+### Day 055/100: 21-11-2024
+**Today's Progress**: 
+Worked on a JS/React Router guided project. None of it made much sense. I've been over the lessons before but it was a while ago and frankly I'm out of my depth. I'll leave this for when I come back round to it properly on the Path.
+I also reviewed the projects still to do from Parts I & II of Codecademy's Full-Stack Path.
+
+
+**Thoughts:** 
+I read an article on Medium) by someone who used the technique of 'blocking' time ie planning spare time in chunks to get himself into a cloud engineer job. His determination inspired me greatly.
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+Work on completing Full-Stack Path Parts 1&2 
+
+
+**Pay Forward:**
+1.  @Juan Luis on fCC Discord
+re: see below
+me: Way to go mate! 86% on day 81. Does that mean you'll hit 100% by Day 100?
+2. @bobmast on fCC Discord
+re: Finished Restaurant Project!! (Odin Project)
+me: TaDa! indeed doesn't it just feel so good!
+
 
 ### Day 000/100: ...
 **Today's Progress**: 
