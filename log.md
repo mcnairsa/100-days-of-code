@@ -1695,6 +1695,33 @@ re: Finished Restaurant Project!! (Odin Project)
 me: TaDa! indeed doesn't it just feel so good!
 
 
+### Day 056/100: 22-11-2024
+**Today's Progress**: 
+Researched content for Codecademy challenge project: Club Website
+Wireframed (loosely) page for same
+Completed first module of first course of IBM Full Stack Developer Cert. Got 90% (9/10) on the first graded test.
+
+**Thoughts:** 
+The IBM thing is graded all the way and I find it very scary. The first two modules are information-intensive. I struggle with that and particularly with finding a happy medium between making 'notes' that are little less than the video transcript at one extreme and winging it with no notes at all.
+
+
+**Link to Work:**
+n/a
+
+**Intention and expectation for tomorrow:**
+Work more on the Club Website
+
+
+**Pay Forward:**
+1.  @LaurenStark on fCC Discord
+re: table of numbers and what's a^3, b^18 called in English.
+me: Nice table. Is that done with CSS?
+a^3 etc. Do you mean 'to the power of'? Also I think it's called exponents or exponentiation. Perhaps I'm thinking of something else though.
+2. @emilie on fCC Discord
+re: Day 95 & stuff (don't really know what they're working on tbh)
+me: Only 5 days to go! Will you carry on with your project or maybe you'll have finished it by then.
+
+
 ### Day 000/100: ...
 **Today's Progress**: 
 [Completed ... &c
