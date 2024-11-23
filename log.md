@@ -1722,6 +1722,35 @@ re: Day 95 & stuff (don't really know what they're working on tbh)
 me: Only 5 days to go! Will you carry on with your project or maybe you'll have finished it by then.
 
 
+### Day 057/100: 23-11-2024
+**Today's Progress**: 
+Did my practice session on Codecademy but otherwise a day off due to my cold.
+
+
+**Thoughts:** 
+Shame ...
+Also cream crackered because completing the Coursera thing led to me not going to bed until 2am and getting only 4 hours sleep.
+
+
+**Link to Work:**
+n/a
+
+
+**Intention and expectation for tomorrow:**
+Hope to feel better[Proposal/Plan for the next day]
+
+
+**Pay Forward:**
+1.  @500_Mai on fCC Discord
+re: 
+me: Well done for persevering with it.
+
+2. @Sudharsan on fCC Discord
+re: Day 1
+me: Well done! And welcome to the challenge.
+
+
+
 ### Day 000/100: ...
 **Today's Progress**: 
 [Completed ... &c
