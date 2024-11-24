@@ -1737,7 +1737,7 @@ n/a
 
 
 **Intention and expectation for tomorrow:**
-Hope to feel better[Proposal/Plan for the next day]
+Hope to feel better
 
 
 **Pay Forward:**
@@ -1749,6 +1749,46 @@ me: Well done for persevering with it.
 re: Day 1
 me: Well done! And welcome to the challenge.
 
+
+### Day 058/100: 24-11-2024
+**Today's Progress**: 
+Did my practice quiz thing on Codecademy. Was hoping to do more but thid cold thing has got the better of me.
+
+**Pay Forward:**
+1.  @aitchThai on fCC Discord
+re: Restarting after missing Day 4
+me: Well done for sticking with it!
+
+2. @clivendon on fCC Discord
+re: Day 1
+me: Welcome to the challenge. Good luck!
+
+
+### Day 000/100: ...
+**Today's Progress**: 
+[Completed ... &c
+
+
+**Thoughts:** 
+[Observation on how it felt ... ]
+
+
+**Link to Work:**
+[Link to GH repo or other ...]
+[Explanation of why no link ...]
+
+**Intention and expectation for tomorrow:**
+[Proposal/Plan for the next day]
+
+
+**Pay Forward:**
+1.  @ ... on ...
+re: 
+me: 
+
+2. @ ... on ...
+re: 
+me: 
 
 
 ### Day 000/100: ...
