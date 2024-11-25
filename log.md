@@ -1752,7 +1752,7 @@ me: Well done! And welcome to the challenge.
 
 ### Day 058/100: 24-11-2024
 **Today's Progress**: 
-Did my practice quiz thing on Codecademy. Was hoping to do more but thid cold thing has got the better of me.
+Did my practice quiz thing on Codecademy. Was hoping to do more but this cold thing has got the better of me.
 
 **Pay Forward:**
 1.  @aitchThai on fCC Discord
@@ -1762,33 +1762,38 @@ me: Well done for sticking with it!
 2. @clivendon on fCC Discord
 re: Day 1
 me: Welcome to the challenge. Good luck!
+# Blocking
+11:00 to 11:45 Practice session
+finished early, about 11:35 so continued on to IBM/Coursera
+Will stop this at one o'clock
+Stopped at 12:08
+There are a couple of supplementary exercises, I'll do those later...
 
-
-### Day 000/100: ...
+### Day 059/100: 25-11-2024
 **Today's Progress**: 
-[Completed ... &c
+Did my practice session
+Completed two modules of the Coursera/IBM Full-Stac certification
+I also carried on yesterday after I went to bed. Scores so far 90%, 70%, 100%.
 
 
-**Thoughts:** 
-[Observation on how it felt ... ]
+**Thoughts:**
+Plainly there's an aspect of resistance to continue with the traineeship stuff that's on Codecademy but for now working on the Coursera path is all I can handle. A lot of it is basic level stuff that I know from previous experience or from Codecademy
 
-
-**Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
 
 **Intention and expectation for tomorrow:**
-[Proposal/Plan for the next day]
+I'll do what I can. I think this rotten cold is on the way out now.
 
 
 **Pay Forward:**
-1.  @ ... on ...
-re: 
-me: 
+1.  @okhaye on fCC Discord
+re: 'i wanna start 100 days of code'
+me: Go for it!
 
-2. @ ... on ...
-re: 
-me: 
+2. @imola on fCC Discord
+re: got stuck on something, couldn't fathom why it wasn't working
+me: Delete and start again often helps. I usually save the old version just in case.
+I find it also helps to take the project slowly, one chunk or even one line at a time. I try to always get to the point where it's working, save that and then move on. That way I may find the thing that I haven't understood and I can go over the lesson again or google for other explanations.
+Probably a good idea to choose one main platform and follow that consistently. I have a habit of hopping about and it can get me in a right mess.
 
 
 ### Day 000/100: ...
