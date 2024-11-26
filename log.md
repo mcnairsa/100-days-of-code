@@ -1772,7 +1772,7 @@ There are a couple of supplementary exercises, I'll do those later...
 ### Day 059/100: 25-11-2024
 **Today's Progress**: 
 Did my practice session
-Completed two modules of the Coursera/IBM Full-Stac certification
+Completed two modules of the Coursera/IBM Full-Stack certification
 I also carried on yesterday after I went to bed. Scores so far 90%, 70%, 100%.
 
 
@@ -1796,29 +1796,33 @@ I find it also helps to take the project slowly, one chunk or even one line at a
 Probably a good idea to choose one main platform and follow that consistently. I have a habit of hopping about and it can get me in a right mess.
 
 
-### Day 000/100: ...
-**Today's Progress**: 
-[Completed ... &c
-nTs: tidy up yesterday's (day b4 now) log to remove the notes that aren't part of the log proper
-
+### Day ???/100: 26-11-2024
+**Today's Progress**:
+I think I've lost track of the days, I'll get it back another time.
+Did practice session.
+Did pay forward.
+Don't have the energey for anything else.
 
 **Thoughts:** 
-[Observation on how it felt ... ]
-
-
-**Link to Work:**
-[Link to GH repo or other ...]
-[Explanation of why no link ...]
-
-**Intention and expectation for tomorrow:**
-[Proposal/Plan for the next day]
+Be so glad when this lurgey has shifted
 
 
 **Pay Forward:**
-1.  @ ... on ...
+1.  @wendychen233 on fcc Discord
+re: been in acitve
+me: One step a day is good. Well done!
+
+2. @Esther fCC Discord
+re: 'day 5: tried making a slider for the 10th time this month and failed again.' 
+me: Well done for persevering. You'll get there in the end.  Remember Edison and the light bulb.
+
+
+**Pay Forward:**
+1.  @ ... on fcc Discord
 re: 
-me:
-2. @ ... on ...
+me: 
+
+2. @ ... on fCC Discord
 re: 
 me: 
 
