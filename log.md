@@ -1801,10 +1801,10 @@ Probably a good idea to choose one main platform and follow that consistently. I
 I think I've lost track of the days, I'll get it back another time.
 Did practice session.
 Did pay forward.
-Don't have the energey for anything else.
+Don't have the energy for anything else.
 
 **Thoughts:** 
-Be so glad when this lurgey has shifted
+Be so glad when this lurgy has shifted
 
 
 **Pay Forward:**
@@ -1815,6 +1815,132 @@ me: One step a day is good. Well done!
 2. @Esther fCC Discord
 re: 'day 5: tried making a slider for the 10th time this month and failed again.' 
 me: Well done for persevering. You'll get there in the end.  Remember Edison and the light bulb.
+
+Wednesday
+Streaks
+CC
+Duo
+1. @Mari B from 16/11
+Re: 'almost back on track' 
+Well done!
+
+2. @Roy
+Day 3 - Frontend
+Completed Learn HTML Forms by Building a Registration Form
+And starting proyect01
+Way to go!
+
+Thursday
+Streaks
+CC
+Duo
+IBM
+1. @LauraStark
+'... depressed from work.'
+Sorry to hear this. I've been there. Well done for managing to do something.
+
+2. @Bishwash
+Day 12/100: Worked with hash tables.
+Awesome! Hash tables feel to me like proper programming.
+
+Friday
+Streaks
+Cc
+Duo
+
+1.
+@ROARSHA
+re: Day One
+Me: Welcome to the challenge. Good luck!
+
+2.
+@imola
+re: Hoping to complete ... over the weekend
+me: Good luck with it.
+
+
+Saturday
+Streaks
+Cc
+Duo
+
+1.
+@Sai
+re: Day One, Take Two
+You can do it, son!
+
+2.
+@codedan[][](dvlprdan)
+re: skyline project (fCC curriculum?)
+That looks super neat!
+
+
+Sunday 01-12-2024
+Streaks
+Cc
+Duo
+1. @Sebastian_W on fcc Discord
+re: Day 100 but not had time to do much
+me: Don't sweat it. You've done what you committed to.
+I've found that following courses that aren't intended to be 100-days-ified doesn't lend itself to the challenge. I found a 100-Days-oriented Python thing that I'll be following next time. 
+
+2. @Kinetic on fCC Discord
+re: Day One again
+me: Good to see you here. Well done for getting on the challenge... again:-)
+
+### Days ??? to ???
+27-11-2024 to 01-12-2024
+No progress on learning or coding but I maintained my streaks and, more importantly, the 'pay forward' which, to me, is a core part of the commitment I made in taking up the challenge. Perhaps the most important.
+
+### Day ???/100: 02-12-2024
+**Today's Progress**:
+I managed 3/4hr on the Codecademy Build a Design System project. Set out the structure of the web page.
+
+
+**Link to Work:**
+n/a
+
+
+**Thoughts:** 
+The *Code* challenge is meant (see original article) to be about coding specifically not about work stuff and not about tutorials. It's hard to do that when you're at the stage many of us are at. We are for the most part in the early stages, fCC curriculum, Codecademy, Udemy and the like.
+
+Next time I do this I will follow a 100-Days focused project based programme such as:
+https://github.com/phillipai/100-days-of-code-python
+
+
+### Day ???/100: 03-12-2024 
+**Today's Progress**:
+More on the codecademy Design System project.
+Working on importing fonts with the@font-face CSS rule.
+Note working for me and I don't know if it's all me or if it's something to do with their learning envirment so the next thing will be to try it locally. That's for tomorrow.	
+
+
+**Link to Work:**
+n/a
+
+
+**Thoughts:**
+It's tempting to jack in this round. I missed several days of anything to do with coding through not feeling well enough. I reckon that having maintained the 'pay forward' commitment I will allow myself to believe that I haven't abandonded the 100 Days commitment altogether.
+
+
+1. @MD AL AMIN on fCC Discord
+re: Day One
+me: Hi and welcome to the challenge. Best of luck!
+
+2. @sualokin
+re: Day One
+me: Hi and welcome to the challenge. Best of luck!
+
+
+### Day ???/100: 
+**Today's Progress**:
+
+
+**Link to Work:**
+n/a
+
+
+**Thoughts:** 
 
 
 **Pay Forward:**
@@ -1880,4 +2006,3 @@ Next Steps
 Create a react app based on the Guinea Pigs from Codecademy lesson:
 React Programming Patterns
 https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-stateless-components-from-stateful-components-4e9c9fb5-0711-4b6d-82b5-1719f044b355/lessons/react-programming-patterns/exercises/react-separate-container-components-from-presentational-components
-
