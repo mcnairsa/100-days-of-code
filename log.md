@@ -1910,9 +1910,9 @@ https://github.com/phillipai/100-days-of-code-python
 
 ### Day ???/100: 03-12-2024 
 **Today's Progress**:
-More on the codecademy Design System project.
+More on the Codecademy Design System project.
 Working on importing fonts with the@font-face CSS rule.
-Note working for me and I don't know if it's all me or if it's something to do with their learning envirment so the next thing will be to try it locally. That's for tomorrow.	
+Note working for me and I don't know if it's all me or if it's something to do with their learning environment so the next thing will be to try it locally. That's for tomorrow.	
 
 
 **Link to Work:**
@@ -1920,7 +1920,7 @@ n/a
 
 
 **Thoughts:**
-It's tempting to jack in this round. I missed several days of anything to do with coding through not feeling well enough. I reckon that having maintained the 'pay forward' commitment I will allow myself to believe that I haven't abandonded the 100 Days commitment altogether.
+It's tempting to jack in this round. I missed several days of anything to do with coding through not feeling well enough. I reckon that having maintained the 'pay forward' commitment I will allow myself to believe that I haven't abandoned the 100 Days commitment altogether.
 
 
 1. @MD AL AMIN on fCC Discord
@@ -1932,25 +1932,27 @@ re: Day One
 me: Hi and welcome to the challenge. Best of luck!
 
 
-### Day ???/100: 
+### Day ???/100:
+(I've lost track of the days, hope to get it sorted by the end of this week.)
 **Today's Progress**:
-
+Followed a tutorial on Digital Ocean in their 'How To Style HTML with CSS' tutorial series. Yesteday I was trying to use the @font-face rule. I read something in the tutorial about @font-face for fonts hosted on the same server as the web site. I thought you could use it with a url function and a remotely hosted font. Hope I'll have made sense of all this by the end of the tutorial.
 
 **Link to Work:**
-n/a
+nothing yet
 
 
 **Thoughts:** 
-
+There are always so many ways to skin the [covers Pippin's ears] cat. But there are often subtle differences between them.
 
 **Pay Forward:**
-1.  @ ... on fcc Discord
-re: 
-me: 
+1.  @Corruption03 on fcc Discord
+re: Day One on some ReactJS stuff and 'not best practice'.
+me: Welcome to the challenge. And don't worry about best practices. That comes with time. What's important is that (1) you *know* about best practice and (2) that you *care* about best practice.
 
-2. @ ... on fCC Discord
-re: 
-me: 
+2. @LittleInksmith on fCC Discord
+re: Async in JS
+me: 'a little frustrating' is an understatement! Congrats if you can make any sense of it at all.
+
 
 Timing Notes
 07:14 - 07:21 F-SE general
