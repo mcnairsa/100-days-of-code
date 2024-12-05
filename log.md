@@ -1932,7 +1932,7 @@ re: Day One
 me: Hi and welcome to the challenge. Best of luck!
 
 
-### Day ???/100:
+### Day ???/100: 04-12-2024
 (I've lost track of the days, hope to get it sorted by the end of this week.)
 **Today's Progress**:
 Followed a tutorial on Digital Ocean in their 'How To Style HTML with CSS' tutorial series. Yesteday I was trying to use the @font-face rule. I read something in the tutorial about @font-face for fonts hosted on the same server as the web site. I thought you could use it with a url function and a remotely hosted font. Hope I'll have made sense of all this by the end of the tutorial.
@@ -1952,6 +1952,68 @@ me: Welcome to the challenge. And don't worry about best practices. That comes w
 2. @LittleInksmith on fCC Discord
 re: Async in JS
 me: 'a little frustrating' is an understatement! Congrats if you can make any sense of it at all.
+
+### Day ???/100: 05-12-2024
+**Today's Progress**: 
+Fell down a research rabbit hole reading up about @font-face and linking fonts generally.
+
+**Thoughts:**
+Goo in that I understand the territory far better now. Frustrating in that I didn't write a single line of code.
+
+**Link to work:**
+n/a
+
+**Plan for tomorrow:**
+Hope to make some real progress on the Design System Project but the next two days have significant chunks already dedicated to other stuff.
+
+**Notes:**
+Re yesterday's conumdrum: can you use the @font-face rule with a remotely hosted font?
+Short answer: No, you can't
+Longer answer: If you have control of the remote server on which the fonts are hosted, i.e. if it's 'yours' and not something like GoogleAPIs then there are ways of tweaking the server (Apache, ngnix &c) to do it. For details see here:
+https://stackoverflow.com/questions/11616306/css-font-face-absolute-url-from-external-domain-fonts-not-loading-in-firefox
+
+However you can use the @import rule ...:
+https://css-tricks.com/snippets/css/using-font-face-in-css/
+Here's a SO article that has a lot of back and forth areguments for and against @import **ALERT!!! major Rabbit Hole**:
+https://stackoverflow.com/questions/10036977/best-way-to-include-css-why-use-import
+
+Useful stuff here:
+https://developer.mozilla.org/en-US/docs/Web/CSS/@import
+and here:
+https://css-tricks.com/snippets/css/using-font-face-in-css/
+
+
+**Pay Forward:**
+1. @adambecker on fCC Discord
+re: Day One
+me: Welcome to the challenge. Best of luck!
+
+2. @The SkyLitBit on fCC Discord
+re: Day One. Starting project with others to build a chess-playing robot,
+me: Welcome to the challenge. Sounds like you have a major project going on there.
+
+### Day ???/100: 
+**Today's Progress**: 
+
+
+**Thoughts:**
+
+
+**Link to work:**
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @ on fCC Discord
+re:
+me: 
+
+2. @ on fCC Discord
+re:
+me: 
+
 
 
 Timing Notes
