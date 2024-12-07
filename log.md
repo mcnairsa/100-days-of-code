@@ -1958,7 +1958,7 @@ me: 'a little frustrating' is an understatement! Congrats if you can make any se
 Fell down a research rabbit hole reading up about @font-face and linking fonts generally.
 
 **Thoughts:**
-Goo in that I understand the territory far better now. Frustrating in that I didn't write a single line of code.
+Good in that I understand the territory far better now. Frustrating in that I didn't write a single line of code.
 
 **Link to work:**
 n/a
@@ -1991,6 +1991,24 @@ me: Welcome to the challenge. Best of luck!
 2. @The SkyLitBit on fCC Discord
 re: Day One. Starting project with others to build a chess-playing robot,
 me: Welcome to the challenge. Sounds like you have a major project going on there.
+
+
+### Day ???/100: 06-12-2024
+**Today's Progress**: 
+Made some modest progress on the Design System project.
+
+**Thoughts:**
+Humility is a useful characteristic in a programmer.
+
+
+**Pay Forward:**
+1. @Kinetic on fCC Discord
+re: 'Day One Again'
+me: Nothing wrong with multiple Day Ones. It proves you refuse to give up.
+
+2. @imola on fCC Discord
+re: '... childish, but ... presentable.'
+me: At least you have something ...and something is something to build on.
 
 ### Day ???/100: 
 **Today's Progress**: 
