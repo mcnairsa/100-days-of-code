@@ -2012,7 +2012,7 @@ me: At least you have something ...and something is something to build on.
 
 ### Day ???/100: 07-12-2024
 **Today's Progress**: 
-More work on the Dexign System project. Colors sorted.
+More work on the Design System project. Colors sorted.
 
 **Thoughts:**
 Paring it back to what is actually asked for is hard.
@@ -2026,6 +2026,26 @@ me: Whatever  you can do is enough:-)
 2. @imola on fCC Discord
 re: frustrated
 me: Probably feel better after sleeping on it?
+
+
+### Day ???/100: 08-12-2024
+**Today's Progress**: 
+In truth today was a day of but I've managed to visit the Design System project.
+
+**Thoughts:**
+Sort of a w/e off though I didn't intend it to be so
+
+
+**Pay Forward:**
+1. @a. on fCC Discord
+re: Day One
+me: Welcome to the challenge. Looking forward to seeing your progress.
+
+2. @Anastasiia on fCC Discord
+re: Day One
+me: Welcome to the challenge. Looking forward to seeing your progress.
+
+
 
 
 ### Day ???/100: 
