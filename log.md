@@ -2010,6 +2010,24 @@ me: Nothing wrong with multiple Day Ones. It proves you refuse to give up.
 re: '... childish, but ... presentable.'
 me: At least you have something ...and something is something to build on.
 
+### Day ???/100: 07-12-2024
+**Today's Progress**: 
+More work on the Dexign System project. Colors sorted.
+
+**Thoughts:**
+Paring it back to what is actually asked for is hard.
+Were I doing this again I would follow the course 'properly' and do things as presented not when my ego saw fit to deign to do them.
+
+**Pay Forward:**
+1. @gman 1647 on fCC Discord
+re: 'just a bit of'
+me: Whatever  you can do is enough:-) 
+
+2. @imola on fCC Discord
+re: frustrated
+me: Probably feel better after sleeping on it?
+
+
 ### Day ???/100: 
 **Today's Progress**: 
 
