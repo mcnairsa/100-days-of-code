@@ -1,3 +1,4 @@
+
 # 100 Days Of Code - Log
 
 ### Day 001/100: Seventh Day, 28th of Ninth Month, 2024
@@ -2030,7 +2031,7 @@ me: Probably feel better after sleeping on it?
 
 ### Day ???/100: 08-12-2024
 **Today's Progress**: 
-In truth today was a day of but I've managed to visit the Design System project.
+In truth today was a day off but I've managed to visit the Design System project.
 
 **Thoughts:**
 Sort of a w/e off though I didn't intend it to be so
@@ -2048,27 +2049,23 @@ me: Welcome to the challenge. Looking forward to seeing your progress.
 
 
 
-### Day ???/100: 
+### Day ???/100: 09-12-2024
 **Today's Progress**: 
-
+Managed a substantial chunk of the Design System project. Had hoped to finish it this evening but I dozed off.
 
 **Thoughts:**
-
-
-**Link to work:**
-
-
-**Plan for tomorrow:**
+Must get to bed soon so I get up sensibly early tomorrow/
 
 
 **Pay Forward:**
-1. @ on fCC Discord
-re:
-me: 
+1. @MD AL AMIN on fCC Discord
+re: Day One on ReactJS with spread operator
+me: Useful hack that. Welcome to the challenge, btw:-)
 
-2. @ on fCC Discord
-re:
-me: 
+2. @Anastasiia on fCC Discord
+re: see below
+me: 'Feeling more confident with CSS.'
+Great!
 
 
 
