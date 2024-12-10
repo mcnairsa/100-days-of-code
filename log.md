@@ -2065,7 +2065,49 @@ me: Useful hack that. Welcome to the challenge, btw:-)
 2. @Anastasiia on fCC Discord
 re: see below
 me: 'Feeling more confident with CSS.'
-Great!
+Great
+
+### Day ???/100: 10-12-2024
+**Today's Progress**: 
+Design System mailnly completed. Needs a bit of a tidy up. I may get to do that before I turn in.
+
+**Thoughts:**
+Reflecting on the importance of (a) reading the instructions properly and (b) following them.
+
+**Pay Forward:**
+1. @LittleInksmith on fCC Discord
+re: see below
+me: Hope you feel better soon.
+Good to hear 'the pseudo-code plan of attack' is bearing fruit.
+
+2. @DayDayUp23 on fCC Discord
+re: see below
+me: You're an inspiration!
+Thanks for sharing the Vim stuff.
+
+
+
+### Day ???/100: 11-12-2024
+**Today's Progress**: 
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @ on fCC Discord
+re: 
+me: 
+
+2. @ on fCC Discord
+re: 
+me: 
 
 
 
