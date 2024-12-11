@@ -2069,7 +2069,7 @@ Great
 
 ### Day ???/100: 10-12-2024
 **Today's Progress**: 
-Design System mailnly completed. Needs a bit of a tidy up. I may get to do that before I turn in.
+Design System mainly completed. Needs a bit of a tidy up. I may get to do that before I turn in.
 
 **Thoughts:**
 Reflecting on the importance of (a) reading the instructions properly and (b) following them.
@@ -2084,6 +2084,30 @@ Good to hear 'the pseudo-code plan of attack' is bearing fruit.
 re: see below
 me: You're an inspiration!
 Thanks for sharing the Vim stuff.
+
+
+### Day ???/100: 11-12-2024
+**Today's Progress**: 
+Finally completed the Design System project (on Codecademy)
+
+**Thoughts:**
+I should have completed it several years ago. I skipped over it because I couldn't get my head around the idea of a Design System when there was no project to design for. Ho hum! Lesson learned.
+
+**Plan for tomorrow:**
+Move on to the Responsive Company Home Page project, an exercise in Flexbox.
+
+**Pay Forward:**
+1. @Anastasiia on fCC Discord
+re: Fb & Insta off
+me: HyperFocus, I like it!
+
+2. @adambecker on fCC Discord
+re: 'Finished the Responsive Testimonials Grid Section...
+    & ... 'Found an awesome CSS Grid Cheat Sheet...'
+me: Well done!
+Care to share the Grid cheat sheet in #off-topic?
+
+
 
 
 
