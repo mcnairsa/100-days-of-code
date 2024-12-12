@@ -2094,7 +2094,7 @@ Finally completed the Design System project (on Codecademy)
 I should have completed it several years ago. I skipped over it because I couldn't get my head around the idea of a Design System when there was no project to design for. Ho hum! Lesson learned.
 
 **Plan for tomorrow:**
-Move on to the Responsive Company Home Page project, an exercise in Flexbox.
+Move on to the Responsive Company Home Page project, an exercise in Flexbo.x
 
 **Pay Forward:**
 1. @Anastasiia on fCC Discord
@@ -2108,10 +2108,25 @@ me: Well done!
 Care to share the Grid cheat sheet in #off-topic?
 
 
+### Day ???/100: 12-12-2024
+**Today's Progress**: 
+Made a start on the next (Codecademy) project. Practice in Flexbox
+
+**Pay Forward:**
+1. @LaurenStark on fCC Discord
+re: see below
+me: Algorithms and Data Structures ... hmm
+... makes my head hurt just thinking about it.
+Best of luck.
 
 
+2. @LittleInksmith on fCC Discord
+re: see below
+me: Ah, sweet clarity.
+Sorry to hear you're not at your best
 
-### Day ???/100: 11-12-2024
+
+### Day ???/100: -12-2024
 **Today's Progress**: 
 
 
