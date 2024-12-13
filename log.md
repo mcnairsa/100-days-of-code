@@ -2090,6 +2090,7 @@ Thanks for sharing the Vim stuff.
 **Today's Progress**: 
 Finally completed the Design System project (on Codecademy)
 
+
 **Thoughts:**
 I should have completed it several years ago. I skipped over it because I couldn't get my head around the idea of a Design System when there was no project to design for. Ho hum! Lesson learned.
 
@@ -2124,6 +2125,26 @@ Best of luck.
 re: see below
 me: Ah, sweet clarity.
 Sorry to hear you're not at your best
+
+
+### Day ???/100: 13-12-2024
+**Today's Progress**: 
+Structure of Company Home Page sorted, fonts chosen.
+I may do a bit more before I turn in.
+
+**Thoughts:**
+Playing for a bit without worrying overmuch about anything helped me get a handle on this. It's a simple one-pager just to try out Flexbox. (Codecademy folks seem to love Flexbox and run screaming from Grid but I'm the other way about.)
+
+
+**Pay Forward:**
+1. @Rafimir Sanchez on fCC Discord
+re: 'Day 00'
+me: Welcome to the Challenge! Look forward to seeing your progress.
+
+2. @kyle on fCC Discord
+re: R2 D100
+me: WooHoo! 100 Days times two? So when do you start Round 3?
+
 
 
 ### Day ???/100: -12-2024
