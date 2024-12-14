@@ -2147,6 +2147,25 @@ me: WooHoo! 100 Days times two? So when do you start Round 3?
 
 
 
+### Day ???/100: 14-12-2024
+**Today's Progress**: 
+Day off today.
+I went rowing this morning. I was cream crackered and fell asleep in the afternoon.
+
+**Thoughts:**
+Perhaps I should follow the advice I give to others...
+
+**Pay Forward:**
+1. @Zenith on fCC Discord
+re: Working but not posting
+me: Good to keep posting even if you only write one line of code, or none. Accountability is a major key to progress. Posting here keeps us focused.
+
+2. @gman1647 on fCC Discord
+re: Finished a project (see below)
+me: Woohoo! Sometimes it's the tricky ones that give most satisfaction in the end.
+
+
+
 ### Day ???/100: -12-2024
 **Today's Progress**: 
 
@@ -2158,18 +2177,17 @@ me: WooHoo! 100 Days times two? So when do you start Round 3?
 
 
 **Plan for tomorrow:**
-
-
-**Pay Forward:**
 1. @ on fCC Discord
 re: 
 me: 
 
+
+**Pay Forward:**
 2. @ on fCC Discord
 re: 
 me: 
 
-
+40m-ish fish dishes
 
 Timing Notes
 07:14 - 07:21 F-SE general
