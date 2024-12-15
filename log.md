@@ -2187,7 +2187,35 @@ me:
 re: 
 me: 
 
-40m-ish fish dishes
+
+
+### Day ???/100: 15-12-2024
+**Today's Progress**: 
+None, kind of a dossing about sort of a day. I may get to plan the current 'project' web page once I get into bed. Pretty minimal, shouldn't take long.
+
+**Thoughts:**
+In response to 'How far can I go' (in another place) I posted this:
+'As far as your dreams can reach. The only constraints are your effort and your knowledge of self.' Feels like history and I have taken to repeating ourselves.
+
+
+**Link to Work:**
+Yeah, right!
+
+**Plan for tomorrow:**
+As if...
+
+1. @ReeapR on fCC Discord
+re: Day 4, finished cat and working on piano apps.
+me: Ah! Cats and pianos. Who says tech is dull!
+Well done
+
+
+**Pay Forward:**
+2. @Dubber Rucky on fCC Discord
+re: Struggling with NodeJS
+me: Worth the effort in the end. I have my doubts about JS anything tbh but having one language that spans front and back ends makes a lot of sense.
+
+Shaolin movie - 40m-ish fish dishes
 
 Timing Notes
 07:14 - 07:21 F-SE general
