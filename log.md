@@ -2165,30 +2165,6 @@ re: Finished a project (see below)
 me: Woohoo! Sometimes it's the tricky ones that give most satisfaction in the end.
 
 
-
-### Day ???/100: -12-2024
-**Today's Progress**: 
-
-
-**Thoughts:**
-
-
-**Link to Work:**
-
-
-**Plan for tomorrow:**
-1. @ on fCC Discord
-re: 
-me: 
-
-
-**Pay Forward:**
-2. @ on fCC Discord
-re: 
-me: 
-
-
-
 ### Day ???/100: 15-12-2024
 **Today's Progress**: 
 None, kind of a dossing about sort of a day. I may get to plan the current 'project' web page once I get into bed. Pretty minimal, shouldn't take long.
@@ -2214,6 +2190,56 @@ Well done
 2. @Dubber Rucky on fCC Discord
 re: Struggling with NodeJS
 me: Worth the effort in the end. I have my doubts about JS anything tbh but having one language that spans front and back ends makes a lot of sense.
+
+
+
+
+### Day ???/100: 16-12-2024
+**Today's Progress**: 
+Back to the drawing board (stritly speaking the notebook, B5 squared, I find A4 too imposing and A5 to constricting) to sketch the page in both pc browser and phone browser formats.
+
+**Thoughts:**
+Inching forward
+
+
+**Plan for tomorrow:**
+1. @Liberty0208 on fCC Discord
+re: On Day 2, I missed Day One. Looks like whe started first time two or three weeks ago. 
+me: Great job! Did you take a break and re-start? Well done for keeping at it.
+
+
+**Pay Forward:**
+2. @sualokin on fCC Discord
+re: TinDog Project screenshot
+me: Awesome! Oh to be a dog! hangOn! I was born in the (Chinese) Year of the Dog, does that make me eligible for an account?
+
+
+
+### Day ???/100: -12-2024
+**Today's Progress**: 
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+1. @ on fCC Discord
+re: 
+me: 
+
+
+**Pay Forward:**
+2. @ on fCC Discord
+re: 
+me: 
+
+
+
 
 Shaolin movie - 40m-ish fish dishes
 
