@@ -2196,22 +2196,42 @@ me: Worth the effort in the end. I have my doubts about JS anything tbh but havi
 
 ### Day ???/100: 16-12-2024
 **Today's Progress**: 
-Back to the drawing board (stritly speaking the notebook, B5 squared, I find A4 too imposing and A5 to constricting) to sketch the page in both pc browser and phone browser formats.
+Back to the drawing board (strictly speaking the notebook, B5 squared, I find A4 too imposing and A5 to constricting) to sketch the page in both pc browser and phone browser formats.
 
 **Thoughts:**
 Inching forward
 
 
-**Plan for tomorrow:**
+**Pay Forward:**
 1. @Liberty0208 on fCC Discord
 re: On Day 2, I missed Day One. Looks like whe started first time two or three weeks ago. 
 me: Great job! Did you take a break and re-start? Well done for keeping at it.
 
-
-**Pay Forward:**
 2. @sualokin on fCC Discord
 re: TinDog Project screenshot
 me: Awesome! Oh to be a dog! hangOn! I was born in the (Chinese) Year of the Dog, does that make me eligible for an account?
+
+
+
+### Day ???/100: 17-12-2024
+**Today's Progress**: 
+Worked on the 'Mission' section of the Responsive Company Home Page project.
+
+**Thoughts:**
+Frustrated
+
+
+1. @LittleInksmith on fCC Discord
+re: '... ran into a snag with destructuring...'
+me: Yeha!
+Go get that nested stuff destructured!
+
+
+**Pay Forward:**
+2. @DaniMetroplex on fCC Discord
+re: some lesson stuff (build a game) on OOP
+me: Good job!
+Is that in the fCC curriculum?
 
 
 
