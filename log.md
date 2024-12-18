@@ -2235,6 +2235,26 @@ Is that in the fCC curriculum?
 
 
 
+### Day ???/100: 18-12-2024
+**Today's Progress**: 
+Codecademy Responsive Company Home Page project:
+sorted out my design system type stuff: colours, fonts and font styles.
+
+**Thoughts:**
+I've realised that the front-end side of full-stack isn't where my head is at right now. I don't think I'm much of a designer. Perhaps time will tell a different story
+
+1. @LittleInksmith on fCC Discord
+re: destructuring conquered
+me: So the hydra is slain and the conquering hero returns triumphant!
+bTw: is 'hero' gender neutral these days? I find it hard to keep up:-)
+
+
+**Pay Forward:**
+2. @gman1647 on fCC Discord
+re: Daily report just says 'Python'
+me: Well done for sticking with it. What Python features are you working on now?
+
+
 ### Day ???/100: -12-2024
 **Today's Progress**: 
 
@@ -2259,6 +2279,9 @@ re:
 me: 
 
 
+
+Tea Cozy is in
+F-SE -> Making a Website Responsive -> Layout with Flexbox
 
 
 Shaolin movie - 40m-ish fish dishes
