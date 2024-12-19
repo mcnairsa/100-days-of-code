@@ -2257,16 +2257,8 @@ me: Well done for sticking with it. What Python features are you working on now?
 
 ### Day ???/100: 19-12-2024
 **Today's Progress**: 
-
-
-**Thoughts:**
-
-
-**Link to Work:**
-
-
-
-**Plan for tomorrow:**
+Worked on the Company Home Page Project
+Revised the Flexbox lesson
 
 
 **Pay Forward:**
