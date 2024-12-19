@@ -2221,13 +2221,12 @@ Worked on the 'Mission' section of the Responsive Company Home Page project.
 Frustrated
 
 
+**Pay Forward:**
 1. @LittleInksmith on fCC Discord
 re: '... ran into a snag with destructuring...'
 me: Yeha!
 Go get that nested stuff destructured!
 
-
-**Pay Forward:**
 2. @DaniMetroplex on fCC Discord
 re: some lesson stuff (build a game) on OOP
 me: Good job!
@@ -2243,16 +2242,43 @@ sorted out my design system type stuff: colours, fonts and font styles.
 **Thoughts:**
 I've realised that the front-end side of full-stack isn't where my head is at right now. I don't think I'm much of a designer. Perhaps time will tell a different story
 
+
+**Pay Forward:**
 1. @LittleInksmith on fCC Discord
 re: destructuring conquered
 me: So the hydra is slain and the conquering hero returns triumphant!
 bTw: is 'hero' gender neutral these days? I find it hard to keep up:-)
 
 
-**Pay Forward:**
 2. @gman1647 on fCC Discord
 re: Daily report just says 'Python'
 me: Well done for sticking with it. What Python features are you working on now?
+
+
+### Day ???/100: 19-12-2024
+**Today's Progress**: 
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @dorjeman on fCC Discord
+re: interview prep 'find the symetric difference'
+me: That sounds very 'ouch!'. Well done.
+
+2. @DaniMetroplex on fCC Discord
+re: 'Review Algorithmic thinking...'
+me: Sounds like everybody but me is grokking algorithms this week. I need to catch up.
+
+
 
 
 ### Day ???/100: -12-2024
@@ -2268,12 +2294,12 @@ me: Well done for sticking with it. What Python features are you working on now?
 
 **Plan for tomorrow:**
 
+
+**Pay Forward:**
 1. @ on fCC Discord
 re: 
 me: 
 
-
-**Pay Forward:**
 2. @ on fCC Discord
 re: 
 me: 
