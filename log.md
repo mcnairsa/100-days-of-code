@@ -2271,6 +2271,49 @@ re: 'Review Algorithmic thinking...'
 me: Sounds like everybody but me is grokking algorithms this week. I need to catch up.
 
 
+### Day ???/100: 20-12-2024
+**Today's Progress**: 
+More work on the current project. Focus on learning rather than doing thous some of that too.
+
+
+**Pay Forward:**
+1. @Zino on fCC Discord
+re: 'lil js'
+me: Doesn't matter how 'lil' so long as there's 'sommat'
+[Bristolian for 'something'.]
+
+2. @nekit on fCC Discord
+re: lots of good stuff
+me: Awesome!
+
+
+
+
+### Day ???/100: 21-12-2024
+**Today's Progress**: 
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @ on fCC Discord
+re: 
+me: 
+
+2. @ on fCC Discord
+re: 
+me: 
+
+
+
 
 
 ### Day ???/100: -12-2024
@@ -2295,6 +2338,7 @@ me:
 2. @ on fCC Discord
 re: 
 me: 
+
 
 
 
