@@ -2272,8 +2272,9 @@ me: Sounds like everybody but me is grokking algorithms this week. I need to cat
 
 
 ### Day ???/100: 20-12-2024
-**Today's Progress**: 
-More work on the current project. Focus on learning rather than doing thous some of that too.
+**Today's Progress**:
+[Post I should have made yesterday but by the time I got there it wasn't today any more...]
+Today's Progress: More work on the current project. Focus on learning rather than doing though some of that too.
 
 
 **Pay Forward:**
@@ -2291,26 +2292,18 @@ me: Awesome!
 
 ### Day ???/100: 21-12-2024
 **Today's Progress**: 
-
-
-**Thoughts:**
-
-
-**Link to Work:**
-
-
-
-**Plan for tomorrow:**
+Day off today.
 
 
 **Pay Forward:**
-1. @ on fCC Discord
-re: 
-me: 
+1. @Canti on fCC Discord
+re: poorly ick
+me: Sorry to hear that. What is the sickness?
+Hope you are better soon, able to get back to coding and to life in general.
 
-2. @ on fCC Discord
-re: 
-me: 
+2. @sualokin on fCC Discord
+re: finished project and contributed a PR on and issue with fCC
+me: Well done and well done for contributing.
 
 
 
