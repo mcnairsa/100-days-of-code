@@ -2309,6 +2309,28 @@ me: Well done and well done for contributing.
 
 
 
+### Day ???/100: 22-12-2024
+**Today's Progress**: 
+Completed the Company Webpage project, sort of.
+
+**Thoughts:**
+I've let this go on too long. Passing over these projects the first time through was the biggest mistake ever. Lesson learned ... perhpas.
+
+
+**Pay Forward:**
+1. @sualokin on fCC Discord
+re: Some Udemy stuff
+me: Nice job!
+
+2. @Soniya Sharma on fCC Discord
+re: Day One and fCC Cat app
+me: Well done and welcome to the challenge. Good luck on your coding journey.
+
+
+
+
+
+
 ### Day ???/100: -12-2024
 **Today's Progress**: 
 
