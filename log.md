@@ -2314,7 +2314,7 @@ me: Well done and well done for contributing.
 Completed the Company Webpage project, sort of.
 
 **Thoughts:**
-I've let this go on too long. Passing over these projects the first time through was the biggest mistake ever. Lesson learned ... perhpas.
+I've let this go on too long. Passing over these projects the first time through was the biggest mistake ever. Lesson learned ... perhaps.
 
 
 **Pay Forward:**
@@ -2328,7 +2328,24 @@ me: Well done and welcome to the challenge. Good luck on your coding journey.
 
 
 
+### Day ???/100: 23-12-2024
+**Today's Progress**: 
+Another day off. Unless you count finishing the Christmas shopping but there wasn't much code involved.
 
+
+**Thoughts:**
+Another lesson learned (re yesterday's reflection) is that trying to do these projects in the learning environment is counter productive. Had I no other way of doing it I would cope better but knowing that I do have a better set up available with just a little bit of work needed is just too frustrating. For the next round (2025 - Round One, 2025/R1/D000/100, starting 7th Day, 4th of 1st Month 2025) I will have a space set aside where I can work comfortably-ish with a 2nd screen attached. 
+
+
+**Pay Forward:**
+1. @nekit on fCC Discord
+re: some refactoring
+me: rems are super cool. Helps with responsiveness.
+And well done for making sense of all that async stuff
+
+2. @Clari on fCC Discord
+re: see below
+me: WooHoo! Recursion, clever stuff that.
 
 
 ### Day ???/100: -12-2024
