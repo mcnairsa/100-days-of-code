@@ -1,4 +1,3 @@
-
 # 100 Days Of Code - Log
 
 ### Day 001/100: Seventh Day, 28th of Ninth Month, 2024
@@ -2346,6 +2345,26 @@ And well done for making sense of all that async stuff
 2. @Clari on fCC Discord
 re: see below
 me: WooHoo! Recursion, clever stuff that.
+
+
+### Day ???/100: 24-12-2024
+**Today's Progress**:
+Did a (very) little planning and preparation for the next project.
+
+
+**Thoughts:**
+Wishing everyone Season's Greetings and a Happy (Gregorian calendar) New Year.
+
+
+**Pay Forward:**
+1. @wendychen233 on fCC Discord
+re: 'plan to do some JS'
+me: As one I've-totally-lost-track-of-what-day-I'm-on 100-dayer to another, I hope you managed to get somewhere you were happy with.
+
+2. @Corruuption03 on fCC Discord
+re: 'a lot of progress... Scrimba course'
+me: K! What's the course?
+
 
 
 ### Day ???/100: -12-2024
