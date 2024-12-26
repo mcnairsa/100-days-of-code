@@ -2383,8 +2383,26 @@ me: Good to hear you're feeling better.
 Good to think beyond the programme.
 
 
-### Day ???/100: -12-2024
-**Today's Progress**: 
+### Day ???/100: 26-12-2024
+**Today's Progress**:
+Off to bed now but will be redesigning the (Codecademy) Responsive Club Website layout.
+
+**Thoughts:**
+Trying to stay off secreen for the last part of the day.
+
+**Pay Forward:**
+1. @bgSebs on fCC Discord
+re: Day One
+me: Welcome to the challenge and best of luck to you:-)
+
+2. @nekit on fCC Discord
+re:see below
+me: Well done for getting to grips with promises.
+
+
+
+
+### Day ???/100: -12-2024 **Today's Progress**:
 
 
 **Thoughts:**
@@ -2397,14 +2415,9 @@ Good to think beyond the programme.
 **Plan for tomorrow:**
 
 
-**Pay Forward:**
-1. @ on fCC Discord
-re: 
-me: 
+**Pay Forward:** 1. @ on fCC Discord re: me:
 
-2. @ on fCC Discord
-re: 
-me: 
+2. @ on fCC Discord re: me:
 
 
 
