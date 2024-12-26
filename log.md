@@ -2367,6 +2367,22 @@ me: K! What's the course?
 
 
 
+### Day ???/100: 25-12-2024
+**Today's Progress**: 
+Day off...
+
+
+**Pay Forward:**
+1. @ReeapR on fCC Discord
+re: ' finished ... and very proud of myself.
+me: So you should be:-)
+
+2. @Canti on fCC Discord
+re: see below
+me: Good to hear you're feeling better.
+Good to think beyond the programme.
+
+
 ### Day ???/100: -12-2024
 **Today's Progress**: 
 
