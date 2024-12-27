@@ -2388,7 +2388,7 @@ Good to think beyond the programme.
 Off to bed now but will be redesigning the (Codecademy) Responsive Club Website layout.
 
 **Thoughts:**
-Trying to stay off secreen for the last part of the day.
+Trying to stay off screen for the last part of the day.
 
 **Pay Forward:**
 1. @bgSebs on fCC Discord
@@ -2401,8 +2401,24 @@ me: Well done for getting to grips with promises.
 
 
 
+### Day ???/100: 27-12-2024
+**Today ... **:
+Day off
 
-### Day ???/100: -12-2024 **Today's Progress**:
+**Pay Forward:**
+1. @anisha on fCC Discord
+re: see below (on Day 3, 1st post was Day 2)
+me: That's a whole lot of progress. Well done!
+And welcome to the challenge, bTw...
+
+2. @Alone on fCC Discord
+re: (see below)
+me: '... OOP in Python' = basis of most of modern programming. Well done!
+and, bTw, you're never alone on the internet
+
+
+### Day ???/100: -12-2024
+**Today's Progress**:
 
 
 **Thoughts:**
@@ -2415,11 +2431,14 @@ me: Well done for getting to grips with promises.
 **Plan for tomorrow:**
 
 
-**Pay Forward:** 1. @ on fCC Discord re: me:
+**Pay Forward:**
+1. @ on fCC Discord
+re: 
+me: 
 
-2. @ on fCC Discord re: me:
-
-
+2. @ on fCC Discord
+re:
+me:
 
 
 Tea Cozy is in
