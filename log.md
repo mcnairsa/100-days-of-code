@@ -2417,6 +2417,21 @@ me: '... OOP in Python' = basis of most of modern programming. Well done!
 and, bTw, you're never alone on the internet
 
 
+### Day ???/100: 28    -12-2024
+**Today's non-Progress**:
+Another day off.
+We went out to buy a mobility scooter and the day went downhill from there.
+
+
+1. @秋水(shusuiwy) on fCC Discord
+re: Day 1/100 but doesn't say anything else
+me: Welcome to the challenge. What are you working on?
+
+2. @Anjali_Pillai on fCC Discord
+re: Day One. '... trouble focusing...' 
+me: Good job starting on the challenge. In my experience focus gets better with consistent practice, and sadly wanes when the consistence fades. Ho hum!
+
+
 ### Day ???/100: -12-2024
 **Today's Progress**:
 
