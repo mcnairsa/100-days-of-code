@@ -2432,6 +2432,22 @@ re: Day One. '... trouble focusing...'
 me: Good job starting on the challenge. In my experience focus gets better with consistent practice, and sadly wanes when the consistence fades. Ho hum!
 
 
+### Day ???/100: 29-12-2024
+**Today's Progress**:
+Some progress made in preparing for 2025, very little in completing 2024.
+
+**Pay Forward:**
+1. @Wale Kuti on fCC Discord
+re: Day Oned HTML basics
+me: GREAT start! Good to see you here.
+Remember to ask for help if things get sticky. If you've tried the usual sources and things still aren't working or making sense you have this community to help you. Good luck and happy coding:-)
+
+2. @ on fCC Discord
+re: Commitment
+me: Great to see you here. Look forward to seeing your progress. Good luck and happy coding:-)
+
+
+
 ### Day ???/100: -12-2024
 **Today's Progress**:
 
