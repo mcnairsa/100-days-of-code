@@ -1,3 +1,4 @@
+
 # 100 Days Of Code - Log
 
 ### Day 001/100: Seventh Day, 28th of Ninth Month, 2024
@@ -2448,7 +2449,7 @@ me: Great to see you here. Look forward to seeing your progress. Good luck and h
 
 
 
-### Day ???/100: -12-2024
+### Day ???/100: 30-12-2024
 **Today's Progress**:
 Sketched and made plans for the next two Codecademy projects.
 
@@ -2460,6 +2461,22 @@ me: Accessibility is GOOD! Great progress:-)
 2. @sualokin on fCC Discord
 re: 'chubby sunflower' ... band name generator - on Code Wars?
 me: Great progress! (Looking forward to the album coming out soon, bTw)
+
+
+
+### Day ???/100: 31-12-2024
+**Today's Progress**:
+Day off today
+
+
+**Pay Forward:**
+1. @Daniel Ajibewa on fCC Discord
+re: Day One
+me: Good job. And welcome to the challenge:-)
+
+2. @IanUmdefined on fCC Discord
+re: '... want to learn... don't know how is works '
+me: Is it the 100 Days challenge you want to know about or where to start with coding?
 
 
 
