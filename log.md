@@ -2480,7 +2480,35 @@ me: Is it the 100 Days challenge you want to know about or where to start with c
 
 
 
-### Day ???/100: -12-2024
+### Day ???/100: 01-01-2025
+**Today's Progress**:
+Basically a day off but...
+Little bit of Python learning (on Codecademy) ... Just bcs s.o. on Discord mentioned 365 Days of coding.
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @LaurenStark on fCC Discord
+re: JS algorithms & DSs
+me: Good job!
+
+2. @anisha on fCC Discord
+re: some CSS stuff incl the coffee menu project
+me: Nice! A pumpkin spice and a donut for me please!
+
+Also...
+Zino (@17:06 on 01-01)'lil js, day mostly spent learning about critical thinking, DM me if interested in such topic'
+
+
+### Day ???/100: -0n-2025
 **Today's Progress**:
 
 
