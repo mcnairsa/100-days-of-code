@@ -2522,6 +2522,22 @@ re: see below
 me: Good work! I like Grid myself and find it strange that some folks seem to shy away from it. Seems to me it makes more sense than Flexbox.
 
 
+### Day ???/100: 03-01-2025
+**Today's Progress**:
+Reviewed (Codecademy) lesson on strings in Python.
+
+
+**Pay Forward:**
+1. @Canti on fCC Discord
+re: see below
+me: Happy New Year to you too.
+Template literals are a neat hack, enjoy!
+
+2. @Sebastian_W on fCC Discord
+re: aee below
+me: Slow and steady wins the race. Any amount of progress is still progress.
+
+
 ### Day ???/100: -01-2025
 **Today's Progress**:
 
@@ -2542,8 +2558,8 @@ re:
 me: 
 
 2. @ on fCC Discord
-re:
-me:
+re: 
+me: 
 
 
 Tea Cozy is in
