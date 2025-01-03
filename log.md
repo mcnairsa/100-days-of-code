@@ -1,4 +1,3 @@
-
 # 100 Days Of Code - Log
 
 ### Day 001/100: Seventh Day, 28th of Ninth Month, 2024
@@ -2508,7 +2507,22 @@ Also...
 Zino (@17:06 on 01-01)'lil js, day mostly spent learning about critical thinking, DM me if interested in such topic'
 
 
-### Day ???/100: -0n-2025
+### Day ???/100: 02-01-2025
+**Today's Progress**:
+Same as yesterday. A day off with a smattering of Python.
+
+
+**Pay Forward:**
+1. @meowser on fCC Discord
+re: Day One, pygame
+me: Great start! Welcome to the challenge.
+
+2. @Mephi on fCC Discord
+re: see below
+me: Good work! I like Grid myself and find it strange that some folks seem to shy away from it. Seems to me it makes more sense than Flexbox.
+
+
+### Day ???/100: -01-2025
 **Today's Progress**:
 
 
