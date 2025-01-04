@@ -2538,6 +2538,21 @@ re: aee below
 me: Slow and steady wins the race. Any amount of progress is still progress.
 
 
+### Day ???/100: 04-01-2025
+**Today ... **:
+Didn't do anything today
+
+**Pay Forward:**
+1. @LittleInksmith  on fCC Discord
+re: moving on from learning environment
+me: Ah yes, breaking free from a learning environment is a huge step. Freedom!
+
+2. @Macinthebox on fCC Discord
+re: Day One, 52 steps of fCC curriculum.
+me: Great start!  Welcome to the challenge.
+
+
+
 ### Day ???/100: -01-2025
 **Today's Progress**:
 
