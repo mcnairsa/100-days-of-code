@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+visual# 100 Days Of Code - Log
 
 ### Day 001/100: Seventh Day, 28th of Ninth Month, 2024
 **Today's Progress**: Work on Codecademy Challenge Project Website Design System
@@ -2571,6 +2571,207 @@ re: Making commitment to challenge (no work reported).
 me: Good to have you here. Look forward to seeing your progress.
 
 
+### Day ???/100: 06-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+I was wondering if there's an api that would let me post my progress here directly without having to copy and paste it. Then it struck me that being 'present' here is part of the whole 100-Days process. 100-Days is as much about engagement with the community directly as it is doing the code. 
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @ on fCC Discord
+re: 
+me: 
+
+2. @ on fCC Discord
+re: 
+me: 
+
+Also this [in response to: https://community.codecademy.com/c/introductions/hey-all-24a813]:
+I have traits of ADHD specifically the ‘inatentive’ flavour. Advice from my (now in 4th year) experience of the Full-Stack Engineer Path is to work through the paths (and logical sequence of courses) as they are presented. First time through I jumped around cherry-picking what I thought I could tick off easily, e.g. databases because I had prior experience and skipping over the projects to ‘come back to them later’. I got a shock recently when I discovered I had last ‘intended to finish’ the Personal Profile Website project in February 2024. It’s just an exercise ffs, shouldn’t take more than an hour or three at most. And yet with 10 months elapsed I’ve not yet signed it off. (and it was about 3 weeks ago I discovered that … argh!!!)
+
+
+Remember also that being neuro-atypical means you have to work out things that neuro-typical people seem to just grok without thinking about it. The process of navigating ‘normality’ with a neuro-atypical brain can be a benefit. The people who seem to ‘just get it’ don’t have to consciously engaget in their process. The benefit is the potential to grok in fullness life and one’s relationship to the social world.
+
+### Day ???/100: 06-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @sualokin on fCC Discord
+re: bunch o' different stuff done incl a PR for fCC contrib
+me: Wow! Sounds like you go a lot done. Well done on the PR.
+
+2. @anisha on fCC Discord
+re: see below; something not working
+me: Getting stuck is when the real learning begins, perhaps. You're not alone in finding pseudo classes challenging.
+
+
+### Day ???/100: 07-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @LittleInksmith on fCC Discord
+re: see below
+me: There's just never enough minutes in the hour are there! Looks like you got lots done even so.
+
+2. @dorjeman on fCC Discord
+re: interview prep stuff
+me: Doubly linked lists ... ouch! Sounds doubly hardcore. Well done!
+
+
+### Day ???/100: 08-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @Alvara_007 on fCC Discord
+re: Day One
+me: Welcome to the challenge. Look forward to seeing your progress.
+
+2. @stone_djjh on fCC Discord
+re: Day One
+me: Welcome to the challenge. Look forward to seeing your progress.
+
+
+
+### Day ???/100: 09-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @Canti on fCC Discord
+re: hit some problems and found it challenging
+me: Well done for pushing through while sick. Hope you feel better now.
+
+2. @Sebastian_W on fCC Discord
+re: ... not 'finished' but...
+me: Something is always a whole lot better than nothing.
+
+
+
+### Day ???/100: 10-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @spongy on fCC Discord
+re: 'No experience.' -> ???
+me: What are your goals for the 100 Days challenge?
+
+2. @#Clari on fCC Discord
+re: on 'taking a step back'
+me: Good thing to step back and refactor from time to time. And TDD is a great way to 'keep the end in mind'.
+
+
+### Day ???/100: 11-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+(Done on 12th, failed yesterday)
+1. @Hikolakita on fCC Discord
+re: Day One and lots of stuff done (already experienced in coding)
+me: Day One? Welcome to the challenge!
+
+2. @Alvara007 on fCC Discord
+re: see below
+me:  ' ... work on everything from start to finish...'
+best scheme '...  keep it super simple...'
+
+
+### Day ???/100: 12-01-2025
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+
+
+
+**Plan for tomorrow:**
+
+
+**Pay Forward:**
+1. @sualokin_ on fCC Discord
+re: some ReactJS stuff
+me: sounds like you got this!
+
+2. @Mittianski on fCC Discord
+re: see below
+me: Sounds like you got loads done!
+
+
 ### Day ???/100: -01-2025
 **Today's Progress**:
 
@@ -2654,4 +2855,4 @@ https://github.com/Codecademy/stuff.js
 Next Steps
 Create a react app based on the Guinea Pigs from Codecademy lesson:
 React Programming Patterns
-https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-stateless-components-from-stateful-components-4e9c9fb5-0711-4b6d-82b5-1719f044b355/lessons/react-programming-patterns/exercises/react-separate-container-components-from-presentational-components
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-stateless-components-from-stateful-components-4e9c9fb5-0711-4b6d-82b5-1719f044b355/lessons/react-programming-patterns/exercises/react-separate-container-components-from-presentational-components.
