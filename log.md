@@ -2772,28 +2772,18 @@ re: see below
 me: Sounds like you got loads done!
 
 
-### Day ???/100: -01-2025
+### Day 100/100: 12-01-2025
 **Today's Progress**:
-
+Last day of this challenge, working on being ready for 100 Days challenges in 2025.
 
 **Thoughts:**
+This is/was the last day of my 2024 challenges. This 100-Days kind of fell apart but that's OK.
 
-
-**Link to Work:**
-
-
-
-**Plan for tomorrow:**
+I plan to start the first 100-Days Challenge of 2025 soon, ideally this weekend but we'll see about that.
 
 
 **Pay Forward:**
-1. @ on fCC Discord
-re: 
-me: 
-
-2. @ on fCC Discord
-re: 
-me: 
+Was done on 12th, see above, this is here just to wrap up.
 
 
 Tea Cozy is in
